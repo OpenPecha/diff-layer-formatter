@@ -13,7 +13,7 @@ def has_alt_diffs(diff, alt_diff_layer_paths):
     diff_start = diff['span']['start']
     alt_diffs = []
     for alt_diff_layer_path in alt_diff_layer_paths:
-        alt_diff_layer = load_yaml(Path(alt_diff_layer_path))
+        alt_diff_layer = load_yaml(alt_diff_layer_path)
         if alt_diff := find_alt_diff(diff_start, alt_diff_layer):
             if alt_diff:
                 alt_diffs.append(alt_diff)
@@ -21,7 +21,7 @@ def has_alt_diffs(diff, alt_diff_layer_paths):
 
 
 def get_combined_diff_layer(cur_diff_path, alt_diff_layer_paths, combined_diffs):
-    cur_diff_layer = load_yaml(Path(cur_diff_path))
+    cur_diff_layer = load_yaml(cur_diff_path)
     for uuid, diff in cur_diff_layer['annotations'].items():
         if alt_diffs := has_alt_diffs(diff, alt_diff_layer_paths):
             if alt_diffs and diff['span']['start'] not in combined_diffs:
