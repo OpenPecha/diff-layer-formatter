@@ -19,16 +19,36 @@ def has_alt_diffs(diff, alt_diff_layer_paths):
                 alt_diffs.append(alt_diff)
     return alt_diffs
 
+def add_missing_diff(diffs, cur_diff, number_of_editions):
+    if len(diffs) == number_of_editions-1:
+        diffs.append(cur_diff['src_diff'])
+    else:
+        for i in range(0, number_of_editions-len(diffs)):
+            diffs.append(cur_diff['src_diff'])
+    return diffs
 
-def get_combined_diff_layer(cur_diff_path, alt_diff_layer_paths, combined_diffs):
+def get_elected_diff(diffs, cur_diff, number_of_editions):
+    diff_n_count = {}
+    unique_diffs = list(set(diffs))
+    for unique_diff in unique_diffs:
+        diff_n_count[unique_diff] = diffs.count(unique_diff)
+    for diff, count in diff_n_count.items():
+        if count > number_of_editions/2:
+            return diff
+    return cur_diff['src_diff']
+
+
+def get_combined_diff_layer(cur_diff_path, alt_diff_layer_paths, combined_diffs, number_of_editions):
     cur_diff_layer = load_yaml(cur_diff_path)
-    for uuid, diff in cur_diff_layer['annotations'].items():
-        if alt_diffs := has_alt_diffs(diff, alt_diff_layer_paths):
-            if alt_diffs and diff['span']['start'] not in combined_diffs:
-                alt_diffs.append(diff['diff_payload'])
-                combined_diffs[diff['span']['start']] = {
-                    'alt_diffs': alt_diffs,
-                    'src_txt': diff['src_diff'],
+    for uuid, cur_diff in cur_diff_layer['annotations'].items():
+        if diffs := has_alt_diffs(cur_diff, alt_diff_layer_paths):
+            if cur_diff['span']['start'] not in combined_diffs:
+                diffs.append(cur_diff['diff_payload'])
+                diffs = add_missing_diff(diffs, cur_diff, number_of_editions)
+                elected_diff = get_elected_diff(diffs, cur_diff, number_of_editions)
+                combined_diffs[cur_diff['span']['start']] = {
+                    'diffs': diffs,
+                    'elected': elected_diff
                 }
     return combined_diffs
 
@@ -43,10 +63,15 @@ def get_alt_diff_paths(cur_diff_path, diff_paths):
 
 if __name__ == "__main__":
     combined_diffs = {}
-    diff_layer_paths = ["./Diff_E1.yml", "./Diff_E2.yml", "./Diff_E3.yml", './Diff_E4.yml']
+    diff_layer_paths = [
+        Path("./data/D3871/diff_layers/Diff_OE_E1.yml"),
+        Path("./data/D3871/diff_layers/Diff_OE_E2.yml"), 
+        Path("./data/D3871/diff_layers/Diff_OE_E3.yml"),
+        Path('./data/D3871/diff_layers/Diff_OE_E4.yml')
+        ]
     for diff_layer_path in diff_layer_paths:
         alt_diff_layer_paths = get_alt_diff_paths(diff_layer_path, diff_layer_paths)
-        combined_diffs = get_combined_diff_layer(diff_layer_path, alt_diff_layer_paths, combined_diffs)
+        combined_diffs = get_combined_diff_layer(diff_layer_path, alt_diff_layer_paths, combined_diffs, number_of_editions=5)
     dump_yaml(combined_diffs, Path('./combined_diff.yml'))
 
 
