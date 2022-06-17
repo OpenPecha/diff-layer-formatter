@@ -1,1442 +1,3300 @@
-2562:
-  alt_diffs:
+29f0a5b6867f4d9b9864030fa840008d:
+  span:
+    start: 769
+    end: 772
+    errors: {}
+  diffs:
+  - བར་
+  - བར་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+57d824f0f16e4c8698c4c180f0ca3657:
+  span:
+    start: 1636
+    end: 1640
+    errors: {}
+  diffs:
+  - རིན་
+  - རིན་
+  - རིང་
+  - རིང་
+  - རིང་
+  elected: རིང་
+84590248e95c437cbd60bcbec8bf44c1:
+  span:
+    start: 2045
+    end: 2051
+    errors: {}
+  diffs:
+  - བསྟེན་
+  - བསྟེན་
+  - བརྟེན་
+  - བརྟེན་
+  - བརྟེན་
+  elected: བརྟེན་
+5c8b8c61445144959471d97a0d603e86:
+  span:
+    start: 2080
+    end: 2086
+    errors: {}
+  diffs:
+  - བསྟེན་
+  - བསྟེན་
+  - བརྟེན་
+  - བརྟེན་
+  - བརྟེན་
+  elected: བརྟེན་
+f0f6a42b91414944abe7745f564fa78b:
+  span:
+    start: 2142
+    end: 2148
+    errors: {}
+  diffs:
+  - བསྟེན།
+  - བསྟེན།
+  - བརྟེན།
+  - བརྟེན།
+  - བརྟེན།
+  elected: བརྟེན།
+a7c9f40052144b4cab358cb57a6fc090:
+  span:
+    start: 2562
+    end: 2565
+    errors: {}
+  diffs:
   - ཚེ་
   - ཚོ་
   - ཚེ་
   - ཚེ་
-  src_txt: ཆེ་
-2694:
-  alt_diffs:
+  - ཆེ་
+  elected: ཚེ་
+de372c4af7d8474b880d0b0711073fa6:
+  span:
+    start: 2694
+    end: 2700
+    errors: {}
+  diffs:
   - སྒྲོལ་
   - སྒྲོལ་
-  src_txt: དགྲོལ་
-4343:
-  alt_diffs:
+  - དགྲོལ་
+  - དགྲོལ་
+  - དགྲོལ་
+  elected: དགྲོལ་
+48b86c2bab0f42f4969ab1f21ac6161a:
+  span:
+    start: 2916
+    end: 2920
+    errors: {}
+  diffs:
+  - ཀྱིས་
+  - ཀྱིས་
+  - གིས་
+  - གིས་
+  - གིས་
+  elected: གིས་
+ffd96e7b9c594b6ebe77bf2cc78160f3:
+  span:
+    start: 3076
+    end: 3079
+    errors: {}
+  diffs:
+  - ཏེ།
+  - ཏེ།
+  - དེ།
+  - དེ།
+  - དེ།
+  elected: དེ།
+b6374dfb1c78450d9c72834bcaecd328:
+  span:
+    start: 4343
+    end: 4349
+    errors: {}
+  diffs:
   - འགྲངས་
   - འགྲངས་
   - འགྲངས་
-  src_txt: འདྲངས་
-4609:
-  alt_diffs:
+  - འདྲངས་
+  - འདྲངས་
+  elected: འགྲངས་
+7651674d31da4c78968952f713cb7ad8:
+  span:
+    start: 4609
+    end: 4611
+    errors: {}
+  diffs:
   - པ་
   - པ་
   - པ་
-  src_txt: ན་
-5461:
-  alt_diffs:
+  - ན་
+  - ན་
+  elected: པ་
+bb5bc10d1a0446e6a48d9d3bc091b9af:
+  span:
+    start: 5277
+    end: 5281
+    errors: {}
+  diffs:
+  - དག་
+  - དག་
+  - ཞིག་
+  - ཞིག་
+  - ཞིག་
+  elected: ཞིག་
+f782a5b822b147168cd019b96ceba3c3:
+  span:
+    start: 5461
+    end: 5466
+    errors: {}
+  diffs:
   - སྤུད་
   - སྤུད་
   - སྤུད་
   - སྤུད་
-  src_txt: སྤུང་
-5756:
-  alt_diffs:
+  - སྤུང་
+  elected: སྤུད་
+0733c287373742a6a792b557b9749660:
+  span:
+    start: 5756
+    end: 5758
+    errors: {}
+  diffs:
   - པ།
   - པ།
   - པ།
-  src_txt: ན།
-6885:
-  alt_diffs:
+  - ན།
+  - ན།
+  elected: པ།
+e00e64c5588c444b92206130f214048a:
+  span:
+    start: 5768
+    end: 5773
+    errors: {}
+  diffs:
+  - བཟུང་
+  - བཟུང་
+  - གཟུང་
+  - གཟུང་
+  - གཟུང་
+  elected: གཟུང་
+354c375b51db436ca5f30e7624c05fd8:
+  span:
+    start: 6453
+    end: 6457
+    errors: {}
+  diffs:
+  - བསྟར།
+  - བསྟར།
+  - ལྟར།
+  - ལྟར།
+  - ལྟར།
+  elected: ལྟར།
+f42dc844b1164796b86a9e532f695cfc:
+  span:
+    start: 6885
+    end: 6888
+    errors: {}
+  diffs:
   - ཏུ་
   - ཏུ་
   - ཏུ་
-  src_txt: དུ་
-7529:
-  alt_diffs:
-  - བགྱི།
-  - བགྱི།
-  - བགྱི།
-  src_txt: བྱ།
-7760:
-  alt_diffs:
+  - དུ་
+  - དུ་
+  elected: ཏུ་
+ded46e46224e426e95c804ac1a083f45:
+  span:
+    start: 6969
+    end: 6972
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+313ff4850f4a4b9da7bacecbfb437b91:
+  span:
+    start: 7760
+    end: 7763
+    errors: {}
+  diffs:
   - བརྒྱན།
   - བརྒྱན།
-  - བརྒྱན།
-  src_txt: ལྡན། །
-7911:
-  alt_diffs:
+  - བརྒྱན
+  - ལྡན
+  - ལྡན
+  elected: ལྡན
+fe3c65c3be1742ab9b536880fa3931f0:
+  span:
+    start: 7911
+    end: 7915
+    errors: {}
+  diffs:
   - སྡུག་
   - སྡུག་
   - སྡུག་
-  src_txt: སྔག་
-7920:
-  alt_diffs:
+  - སྔག་
+  - སྔག་
+  elected: སྡུག་
+ba6f2cab6491494884905fd6f3cfd772:
+  span:
+    start: 7920
+    end: 7924
+    errors: {}
+  diffs:
   - སིམ་
   - སིམ་
   - སིམ་
-  src_txt: ཚིམ་
-9152:
-  alt_diffs:
+  - ཚིམ་
+  - ཚིམ་
+  elected: སིམ་
+f5981a51cd6e44d7ac9903defe2ff783:
+  span:
+    start: 8309
+    end: 8312
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+76df33f2d35641af8b8bdf7267a2b310:
+  span:
+    start: 8435
+    end: 8437
+    errors: {}
+  diffs:
+  - ནི
+  - ནི
+  - ཡི
+  - ཡི
+  - ཡི
+  elected: ཡི
+736381a0cec04f4ea438c2816faf4b8d:
+  span:
+    start: 9152
+    end: 9156
+    errors: {}
+  diffs:
   - པ།
   - པ།
   - པ།
-  src_txt: དང་།
-9545:
-  alt_diffs:
+  - དང་།
+  - དང་།
+  elected: པ།
+987c7467bb8a455697c9cd9e47296503:
+  span:
+    start: 9545
+    end: 9548
+    errors: {}
+  diffs:
   - པས།
   - པས།
   - པས།
-  src_txt: ནས།
-11258:
-  alt_diffs:
+  - ནས།
+  - ནས།
+  elected: པས།
+c9fbb38b4e0147b38abad976817d829e:
+  span:
+    start: 10530
+    end: 10532
+    errors: {}
+  diffs:
+  - གཅ
+  - གཅ
+  - བཅ
+  - བཅ
+  - བཅ
+  elected: བཅ
+a8c00e78c9d0486bb575cd976e9c6e20:
+  span:
+    start: 10924
+    end: 10927
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+c48a8249fa2c478da93afedee24cf277:
+  span:
+    start: 11258
+    end: 11261
+    errors: {}
+  diffs:
   - ནས།
   - ནས།
   - ནས།
-  src_txt: པས།
-11891:
-  alt_diffs:
+  - པས།
+  - པས།
+  elected: ནས།
+4b622fe11d6b4722aea165d47e9c596f:
+  span:
+    start: 11267
+    end: 11270
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+ffbffba52ab84a2a9b8d39f7567cc878:
+  span:
+    start: 11333
+    end: 11336
+    errors: {}
+  diffs:
+  - འདི་
+  - འདི་
+  - ནི་
+  - ནི་
+  - ནི་
+  elected: ནི་
+6b25f8d06bd84f8998744b08c38d2ad6:
+  span:
+    start: 11356
+    end: 11361
+    errors: {}
+  diffs:
+  - རྗེའི་
+  - རྗེའི་
+  - རྗེས་
+  - རྗེས་
+  - རྗེས་
+  elected: རྗེས་
+62ccdf0ff87f41699c850a5b2112ae37:
+  span:
+    start: 11891
+    end: 11898
+    errors: {}
+  diffs:
   - བརྒྱ་ཡི།
   - བརྒྱ་ཡི།
   - བརྒྱ་ཡི།
-  src_txt: བརྒྱའི། །
-11985:
-  alt_diffs:
+  - བརྒྱའི།
+  - བརྒྱའི།
+  elected: བརྒྱ་ཡི།
+ac70f803b7f044ec82b08963ef57233b:
+  span:
+    start: 11985
+    end: 11987
+    errors: {}
+  diffs:
   - ན།
   - ན།
   - ན།
-  src_txt: ལ།
-12427:
-  alt_diffs:
+  - ལ།
+  - ལ།
+  elected: ན།
+60a5001aaab145a0be56fc619b268794:
+  span:
+    start: 12368
+    end: 12375
+    errors: {}
+  diffs:
+  - འགྱུར།
+  - འགྱུར།
+  - འབྱུང་།
+  - འབྱུང་།
+  - འབྱུང་།
+  elected: འབྱུང་།
+532c4fe54434496eaa9360d1d364e2e7:
+  span:
+    start: 12427
+    end: 12431
+    errors: {}
+  diffs:
   - འགྱུར།
   - འགྱུར།
   - འགྱུར།
-  src_txt: ཞེས།
-13737:
-  alt_diffs:
+  - ཞེས།
+  - ཞེས།
+  elected: འགྱུར།
+cfd207e8ab9142b58005011e03bde98e:
+  span:
+    start: 12460
+    end: 12463
+    errors: {}
+  diffs:
+  - ཅི་
+  - ཅི་
+  - ཇི་
+  - ཇི་
+  - ཇི་
+  elected: ཇི་
+6b8aedc3b506463e87397f55836b5122:
+  span:
+    start: 13737
+    end: 13741
+    errors: {}
+  diffs:
   - སྦར་
   - སྦར་
-  src_txt: སྤར་
-14129:
-  alt_diffs:
-  - གནོད་པ་
-  - གནོད་པ་
-  - གནོད་པ་་
-  src_txt: སྡུག་བསྔལ་
-14412:
-  alt_diffs:
+  - སྤར་
+  - སྤར་
+  - སྤར་
+  elected: སྤར་
+c22570b6f1804db0809fe4c3efab0534:
+  span:
+    start: 13824
+    end: 13829
+    errors: {}
+  diffs:
+  - འགོད་
+  - འགོད་
+  - དགོད་
+  - དགོད་
+  - དགོད་
+  elected: དགོད་
+b420d4b48436474b99e8ece0b8634eeb:
+  span:
+    start: 14134
+    end: 14139
+    errors: {}
+  diffs:
+  - པ་
+  - པ་
+  - བསྔལ་
+  - བསྔལ་
+  - བསྔལ་
+  elected: བསྔལ་
+8e8f35a227094e44a5a415cac586d1fe:
+  span:
+    start: 14290
+    end: 14293
+    errors: {}
+  diffs:
+  - ན་
+  - ན་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+a4ece15cbd5f48a4ab64abdb82fe8378:
+  span:
+    start: 14412
+    end: 14414
+    errors: {}
+  diffs:
   - བ་
   - བ་
-  src_txt: པ་
-15615:
-  alt_diffs:
+  - པ་
+  - པ་
+  - པ་
+  elected: པ་
+b5e4317e31c84fdd8ed635f144be7ea1:
+  span:
+    start: 14925
+    end: 14927
+    errors: {}
+  diffs:
+  - ན།
+  - ན།
+  - བ།
+  - བ།
+  - བ།
+  elected: བ།
+631a077d5cca48b5ab66566d7bfd2885:
+  span:
+    start: 15320
+    end: 15323
+    errors: {}
+  diffs:
+  - བར་
+  - བར་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+a95bce3237534885893623cc0c1d8247:
+  span:
+    start: 15615
+    end: 15618
+    errors: {}
+  diffs:
   - ཏུ།
   - ཏུ།
   - ཏུ།
-  src_txt: དུ།
-16136:
-  alt_diffs:
-  - ད་
-  - ད་
-  - ་ད་
-  src_txt: བདག་དེང་
-16836:
-  alt_diffs:
+  - དུ།
+  - དུ།
+  elected: ཏུ།
+1b547fd586e8424094c1a2ceaaf7e822:
+  span:
+    start: 16574
+    end: 16578
+    errors: {}
+  diffs:
+  - ཤིང་
+  - ཤིང་
+  - ཞིང་
+  - ཞིང་
+  - ཞིང་
+  elected: ཞིང་
+6d76ec954f1a4c588bc3d639a2341912:
+  span:
+    start: 16836
+    end: 16841
+    errors: {}
+  diffs:
   - ཕྱུང་
   - ཕྱུང་
   - ཕྱུང་
-  src_txt: བྱུང་
-16858:
-  alt_diffs:
+  - བྱུང་
+  - བྱུང་
+  elected: ཕྱུང་
+99ac428f82ef41e099045dc327b87fe6:
+  span:
+    start: 16858
+    end: 16864
+    errors: {}
+  diffs:
   - འགྲོན་
   - འགྲོན་
-  src_txt: མགྲོན་
-16973:
-  alt_diffs:
+  - མགྲོན་
+  - མགྲོན་
+  - མགྲོན་
+  elected: མགྲོན་
+104fdc5bbb6b4417a21b535221d194f7:
+  span:
+    start: 16973
+    end: 16979
+    errors: {}
+  diffs:
   - འགྲོན་
   - འགྲོན་
   - འགྲོན་
-  src_txt: མགྲོན་
-17718:
-  alt_diffs:
+  - མགྲོན་
+  - མགྲོན་
+  elected: འགྲོན་
+de4f99b5588d4163883fdb37ec62852b:
+  span:
+    start: 17211
+    end: 17216
+    errors: {}
+  diffs:
+  - བཟུང་
+  - བཟུང་
+  - གཟུང་
+  - གཟུང་
+  - གཟུང་
+  elected: གཟུང་
+e025a3cee835422b9ae3291ca0bc2383:
+  span:
+    start: 17718
+    end: 17720
+    errors: {}
+  diffs:
   - བ་
   - བ་
-  src_txt: པ་
-17973:
-  alt_diffs:
+  - པ་
+  - པ་
+  - པ་
+  elected: པ་
+349a2a40c20d4ade9af557f2d96ddd8b:
+  span:
+    start: 17973
+    end: 17978
+    errors: {}
+  diffs:
   - མཛད་
   - མཛད་
   - མཛད་
-  src_txt: བྱེད་
-19999:
-  alt_diffs:
+  - བྱེད་
+  - བྱེད་
+  elected: མཛད་
+b7ca9b42405046448ff8c5a50c15c023:
+  span:
+    start: 18082
+    end: 18084
+    errors: {}
+  diffs:
+  - དུ་
+  - དུ་
+  - ན་
+  - ན་
+  - ན་
+  elected: ན་
+98ddd3f8c4854f9cb9a84d1016f8be15:
+  span:
+    start: 18535
+    end: 18538
+    errors: {}
+  diffs:
+  - པས་
+  - པས་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+1c57b6ec63a2419dac5233b2ee659a80:
+  span:
+    start: 18929
+    end: 18931
+    errors: {}
+  diffs:
+  - ན་
+  - ན་
+  - པ་
+  - པ་
+  - པ་
+  elected: པ་
+177e0b0f5f624744a1c02fe40a7e4a6d:
+  span:
+    start: 19666
+    end: 19669
+    errors: {}
+  diffs:
+  - དི་
+  - དི་
+  - དེ་
+  - དེ་
+  - དེ་
+  elected: དེ་
+bdf33e80f3ae475789c6a793fba992d0:
+  span:
+    start: 19999
+    end: 20003
+    errors: {}
+  diffs:
   - ཡུན་
   - ཡུན་
   - ཡུན་
-  src_txt: དུས་
-20136:
-  alt_diffs:
-  - སྟེས་
-  - སྟེས་
-  - སྟེས་
-  src_txt: ཏེ་
-21164:
-  alt_diffs:
+  - དུས་
+  - དུས་
+  elected: ཡུན་
+c9a8623c90e74877a8b98f0da3a82cb6:
+  span:
+    start: 20136
+    end: 20138
+    errors: {}
+  diffs:
+  - སྟེ
+  - སྟེ
+  - སྟེ
+  - ཏེ
+  - ཏེ
+  elected: སྟེ
+566031811f0a4e849a0f9093808e96e4:
+  span:
+    start: 20680
+    end: 20683
+    errors: {}
+  diffs:
+  - ཆེན་
+  - ཆེན་
+  - ཅན་
+  - ཅན་
+  - ཅན་
+  elected: ཅན་
+771b7e411daf45d0a20798650248f31f:
+  span:
+    start: 21164
+    end: 21169
+    errors: {}
+  diffs:
   - བཙོན་
   - བཙོན་
   - བཙོན་གྱི་
   - བརྩོན་
-  src_txt: བཅོན་
-24721:
-  alt_diffs:
-  - གཡོག་ཏུ།
-  - གཡོག་ཏུ།
-  - གཡོག་ཏུ།
-  src_txt: གཡོགས་སུ།
-25022:
-  alt_diffs:
+  - བཅོན་
+  elected: བཅོན་
+9ef18d72bbce45ab8f57264233f4efa3:
+  span:
+    start: 21711
+    end: 21715
+    errors: {}
+  diffs:
+  - ངེས་
+  - ངེས་
+  - ངེས་
+  - དེས་
+  - དེས་
+  elected: ངེས་
+cdaa8c4e8737410a9941d161ee2774e8:
+  span:
+    start: 22282
+    end: 22286
+    errors: {}
+  diffs:
+  - ལྟས་
+  - ལྟས་
+  - ལྟར་
+  - ལྟར་
+  - ལྟར་
+  elected: ལྟར་
+737b67f3e55748869a2c8b475585f03b:
+  span:
+    start: 22523
+    end: 22526
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+85a3ca77ba7f478ba9c0c351a438158e:
+  span:
+    start: 22547
+    end: 22552
+    errors: {}
+  diffs:
+  - འདུད་
+  - འདུད་
+  - མདུད་
+  - མདུད་
+  - མདུད་
+  elected: མདུད་
+a0cd48a9b3024235a808ee7119f061e3:
+  span:
+    start: 22930
+    end: 22934
+    errors: {}
+  diffs:
+  - འདེ་
+  - འདེ་
+  - འདི་
+  - འདི་
+  - འདི་
+  elected: འདི་
+91c5989b66ef4a4a8d5b49632ac428b2:
+  span:
+    start: 23989
+    end: 23991
+    errors: {}
+  diffs:
+  - པ་
+  - པ་
+  - བ་
+  - བ་
+  - བ་
+  elected: བ་
+cf0b55bb54bc437fb8f1ecbbb1929305:
+  span:
+    start: 24094
+    end: 24097
+    errors: {}
+  diffs:
+  - མོ་
+  - མོ་
+  - མེ་
+  - མེ་
+  - མེ་
+  elected: མེ་
+297b22e5f16b4adf9892e41e9a79ca84:
+  span:
+    start: 24262
+    end: 24265
+    errors: {}
+  diffs:
+  - པས།
+  - བས།
+  - ནས།
+  - ནས།
+  - ནས།
+  elected: ནས།
+706341d926ce4de6a861441aabb70bda:
+  span:
+    start: 24298
+    end: 24302
+    errors: {}
+  diffs:
+  - དུང་
+  - དུང་
+  - རུང་
+  - རུང་
+  - རུང་
+  elected: རུང་
+d1735b93c6ba4998bdd2653891464cec:
+  span:
+    start: 24396
+    end: 24400
+    errors: {}
+  diffs:
+  - གཏང་
+  - གཏང་
+  - བཏང་
+  - བཏང་
+  - བཏང་
+  elected: བཏང་
+89d8096b248c4186b25fc3667de8f4fe:
+  span:
+    start: 24727
+    end: 24730
+    errors: {}
+  diffs:
+  - ཏུ།
+  - ཏུ།
+  - ཏུ།
+  - སུ།
+  - སུ།
+  elected: ཏུ།
+134859950c4046d7aa334455609423e5:
+  span:
+    start: 25022
+    end: 25024
+    errors: {}
+  diffs:
   - ཡང་
   - ཡང་
-  - ཡང༌།
-  src_txt: མང་།
-25326:
-  alt_diffs:
+  - ཡང
+  - མང
+  - མང
+  elected: མང
+51bc32fdb18b4da8bc0e4efc79b0dc95:
+  span:
+    start: 25326
+    end: 25331
+    errors: {}
+  diffs:
   - བཟུང་
   - བཟུང་
   - བཟུང་
-  src_txt: གཟུང་
-25870:
-  alt_diffs:
-  - ནམ་ཡང་
-  - ནམ་ཡང་
-  - ནམ་ཡང་
-  src_txt: ནམས་ཀྱང་
-26860:
-  alt_diffs:
+  - གཟུང་
+  - གཟུང་
+  elected: བཟུང་
+95b34224d1d14e7aabd8ca0513fcc470:
+  span:
+    start: 25424
+    end: 25429
+    errors: {}
+  diffs:
+  - གྲོལ་
+  - གྲོལ་
+  - དྲོལ་
+  - དྲོལ་
+  - དྲོལ་
+  elected: དྲོལ་
+fa91bdcb79964618949e5f3259fd5d21:
+  span:
+    start: 25874
+    end: 25878
+    errors: {}
+  diffs:
+  - ཡང་
+  - ཡང་
+  - ཡང་
+  - ཀྱང་
+  - ཀྱང་
+  elected: ཡང་
+46d40191700b4be892e7058901f997bd:
+  span:
+    start: 26755
+    end: 26760
+    errors: {}
+  diffs:
+  - བསྟན་
+  - བསྟན་
+  - བརྟན་
+  - བརྟན་
+  - བརྟན་
+  elected: བརྟན་
+fc02adb5e07344aeb5135977698ed117:
+  span:
+    start: 26860
+    end: 26863
+    errors: {}
+  diffs:
   - ཏུ་
   - ཏུ་
   - ཏུ་
-  src_txt: དུ་
-28176:
-  alt_diffs:
+  - དུ་
+  - དུ་
+  elected: ཏུ་
+53ea7bb8569c43119a62b302c6875cbf:
+  span:
+    start: 26990
+    end: 26995
+    errors: {}
+  diffs:
+  - མནོས།
+  - མནོས།
+  - གནོས།
+  - གནོས།
+  - གནོས།
+  elected: གནོས།
+426720a3fe444d6b93b135d126015aab:
+  span:
+    start: 28176
+    end: 28182
+    errors: {}
+  diffs:
   - བཞག་པར་
   - བཞག་པར་
   - བཞག་པར་
-  src_txt: བྱ་བར་
-28249:
-  alt_diffs:
+  - བྱ་བར་
+  - བྱ་བར་
+  elected: བཞག་པར་
+b9e93b4aaa504e8a83d182305ff9a4ac:
+  span:
+    start: 28249
+    end: 28253
+    errors: {}
+  diffs:
   - གཏད་
   - གཏད་
   - གཏད་
-  src_txt: གཏང་
-28332:
-  alt_diffs:
-  - གཉིས་ཀར་
-  - གཉིས་ཀར་
-  - གཉིས་ཀར་
-  src_txt: གཉི་གར་
-28843:
-  alt_diffs:
+  - གཏང་
+  - གཏང་
+  elected: གཏད་
+ff7c05ebbcd244b9801dd80faec1f788:
+  span:
+    start: 28336
+    end: 28339
+    errors: {}
+  diffs:
+  - ཀར་
+  - ཀར་
+  - ཀར་
+  - གར་
+  - གར་
+  elected: ཀར་
+2514ef315d9a4705be93a3ecc82a8ea5:
+  span:
+    start: 28843
+    end: 28848
+    errors: {}
+  diffs:
   - རྒོད་
   - རྒོད་
   - རྒོད་
-  src_txt: དགོད་
-32195:
-  alt_diffs:
+  - དགོད་
+  - དགོད་
+  elected: རྒོད་
+2bc4a7e03c2941738c50cf755978fd1d:
+  span:
+    start: 29017
+    end: 29023
+    errors: {}
+  diffs:
+  - འགྱེད་
+  - འགྱེད་
+  - འགྱོད་
+  - འགྱོད་
+  - འགྱོད་
+  elected: འགྱོད་
+50f30f82622d46a0bf352fa096a4637d:
+  span:
+    start: 29279
+    end: 29282
+    errors: {}
+  diffs:
+  - ཚེ་
+  - ཚོ་
+  - ནི་
+  - ནི་
+  - ནི་
+  elected: ནི་
+7a349c79cc694abca51b02c63eb277e6:
+  span:
+    start: 30019
+    end: 30022
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+9a894394d6be42a3857d2b2a7e123ced:
+  span:
+    start: 30106
+    end: 30111
+    errors: {}
+  diffs:
+  - བཟུང་
+  - བཟུང་
+  - གཟུང་
+  - གཟུང་
+  - གཟུང་
+  elected: གཟུང་
+bea708d3435544b6b742f6f7c8bb874a:
+  span:
+    start: 31367
+    end: 31375
+    errors: {}
+  diffs:
+  - གྱིས་ཏེ།
+  - གྱིས་ཏེ།
+  - ཀྱིས་དེ།
+  - ཀྱིས་དེ།
+  - ཀྱིས་དེ།
+  elected: ཀྱིས་དེ།
+7f52f3e6a9ce433ab81a0c8028f3d360:
+  span:
+    start: 31705
+    end: 31710
+    errors: {}
+  diffs:
+  - གཞེན་
+  - གཞེན་
+  - བཞེན་
+  - བཞེན་
+  - བཞེན་
+  elected: བཞེན་
+56ad7c1af5e944faaae08f0cc4931468:
+  span:
+    start: 31770
+    end: 31774
+    errors: {}
+  diffs:
+  - བོར་
+  - བོར་
+  - བོས་
+  - བོས་
+  - བོས་
+  elected: བོས་
+1b47fa03a27442b0b932001a2c2bdc6e:
+  span:
+    start: 32173
+    end: 32177
+    errors: {}
+  diffs:
+  - གོད་
+  - གོད་
+  - གོང་
+  - གོང་
+  - གོང་
+  elected: གོང་
+c724fabaf2fc48fd895204b0c9aa7bfc:
+  span:
+    start: 32195
+    end: 32198
+    errors: {}
+  diffs:
   - ཏུ་
   - ཏུ་
   - ཏུ་
-  src_txt: དུ་
-32959:
-  alt_diffs:
+  - དུ་
+  - དུ་
+  elected: ཏུ་
+f73483c6fa4e4b279ea4ce901da8d214:
+  span:
+    start: 32249
+    end: 32252
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+1ac232ff48c44983803812735a77f598:
+  span:
+    start: 32291
+    end: 32293
+    errors: {}
+  diffs:
+  - བ་
+  - བ་
+  - པ་
+  - པ་
+  - པ་
+  elected: པ་
+f77884900c194e3d9e560a01b58a59b6:
+  span:
+    start: 32345
+    end: 32347
+    errors: {}
+  diffs:
+  - པ་
+  - པ་
+  - པ་
+  - བ་
+  - བ་
+  elected: པ་
+87d824eeb5704932961782e549bc4a0c:
+  span:
+    start: 32522
+    end: 32526
+    errors: {}
+  diffs:
+  - པའམ།
+  - པའམ།
+  - བའམ།
+  - བའམ།
+  - བའམ།
+  elected: བའམ།
+de13fbd5fa15403793834fa14e6ff789:
+  span:
+    start: 32548
+    end: 32550
+    errors: {}
+  diffs:
+  - པ་
+  - པ་
+  - བ་
+  - བ་
+  - བ་
+  elected: བ་
+89b8ee5d2e7d405e98543100fbac9654:
+  span:
+    start: 32623
+    end: 32627
+    errors: {}
+  diffs:
+  - དད་
+  - དད་
+  - ལྡང་
+  - ལྡང་
+  - ལྡང་
+  elected: ལྡང་
+87c2cdc90f5f4402a733db38966de188:
+  span:
+    start: 32959
+    end: 32964
+    errors: {}
+  diffs:
   - ལྟུང་
   - ལྟུང་
   - ལྟུང་
-  src_txt: ལྷུང་
-34484:
-  alt_diffs:
+  - ལྷུང་
+  - ལྷུང་
+  elected: ལྟུང་
+908ba0e00bd34f918c6562d19cef94cd:
+  span:
+    start: 33510
+    end: 33513
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+07f013c5aee64e708be771ff6d988d36:
+  span:
+    start: 34484
+    end: 34487
+    errors: {}
+  diffs:
   - ནས།
   - ནས།
   - ནས།
-  src_txt: པས།
-35919:
-  alt_diffs:
+  - པས།
+  - པས།
+  elected: ནས།
+9ecfb2b879a8468db4f38ecd7af6013b:
+  span:
+    start: 34972
+    end: 34974
+    errors: {}
+  diffs:
+  - གཏ
+  - གཏ
+  - བཏ
+  - བཏ
+  - བཏ
+  elected: བཏ
+77a62adfaa12422b98b0a886d4b79eea:
+  span:
+    start: 35601
+    end: 35604
+    errors: {}
+  diffs:
+  - དི་
+  - དི་
+  - དེ་
+  - དེ་
+  - དེ་
+  elected: དེ་
+8608c3b9301242f49dc402917b369ae3:
+  span:
+    start: 35919
+    end: 35924
+    errors: {}
+  diffs:
   - སྤྱད་
   - སྤྱད་
   - སྤྱད་
   - སྦྱང་
-  src_txt: སྤྱང་
-35938:
-  alt_diffs:
+  - སྤྱང་
+  elected: སྤྱད་
+cf1d8c3187c0494293e43fa3c4e4ec3c:
+  span:
+    start: 35938
+    end: 35940
+    errors: {}
+  diffs:
   - ཀྱང་
   - ཀྱང་
-  - ཀྱང༌།
-  src_txt: ཡང་།
-36070:
-  alt_diffs:
+  - ཀྱང
+  - ཡང
+  - ཡང
+  elected: ཡང
+9d7f81d1035048849a303c54a5d19e27:
+  span:
+    start: 36070
+    end: 36073
+    errors: {}
+  diffs:
   - གྱིས་
   - གྱིས་
   - གྱིས་
-  src_txt: དུ་
-39351:
-  alt_diffs:
+  - དུ་
+  - དུ་
+  elected: གྱིས་
+a62803a0c1754e5191e23c2aa6120b3c:
+  span:
+    start: 37242
+    end: 37246
+    errors: {}
+  diffs:
+  - ཀརྞ་
+  - ཀརྞ་
+  - ཀརྣ་
+  - ཀརྣ་
+  - ཀརྣ་
+  elected: ཀརྣ་
+2524588ee97441e5806a9960779de449:
+  span:
+    start: 37319
+    end: 37322
+    errors: {}
+  diffs:
+  - ཀོ་
+  - ཀོ་
+  - གོ་
+  - གོ་
+  - གོ་
+  elected: གོ་
+2c76427076fc432d822e928ff6a9bb1f:
+  span:
+    start: 37330
+    end: 37334
+    errors: {}
+  diffs:
+  - སྡར།
+  - སྡར།
+  - སྔར།
+  - སྔར།
+  - སྔར།
+  elected: སྔར།
+e03859ae10b849cda2c94facb3683a5c:
+  span:
+    start: 37812
+    end: 37816
+    errors: {}
+  diffs:
+  - སྡར་
+  - སྡར་
+  - སྡར་
+  - སྔར་
+  - སྔར་
+  elected: སྡར་
+f774d1ade090476d9bcb844d1b153d53:
+  span:
+    start: 38872
+    end: 38878
+    errors: {}
+  diffs:
+  - བཏགས་
+  - བཏགས་
+  - བརྟགས་
+  - བརྟགས་
+  - བརྟགས་
+  elected: བརྟགས་
+92d217b43bf1407db98790c3c1b92294:
+  span:
+    start: 39258
+    end: 39261
+    errors: {}
+  diffs:
+  - བར་
+  - བར་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+ce935df5512c46b0a18aa2416cdf2bc2:
+  span:
+    start: 39351
+    end: 39357
+    errors: {}
+  diffs:
   - སྤྲུལ་
   - སྤྲུལ་
   - སྤྲུལ་
-  src_txt: སྦྲུལ་
-41057:
-  alt_diffs:
+  - སྦྲུལ་
+  - སྦྲུལ་
+  elected: སྤྲུལ་
+8122ba76ecf340f5be96bc49f17a1e74:
+  span:
+    start: 40324
+    end: 40327
+    errors: {}
+  diffs:
+  - དི་
+  - དི་
+  - དེ་
+  - དེ་
+  - དེ་
+  elected: དེ་
+5e67018d266445e5b78cc871536a5c31:
+  span:
+    start: 40409
+    end: 40414
+    errors: {}
+  diffs:
+  - བཀོན་
+  - བཀོན་
+  - དཀོན་
+  - དཀོན་
+  - དཀོན་
+  elected: དཀོན་
+54cfd6d41c3b4a1081072f009b141453:
+  span:
+    start: 40494
+    end: 40498
+    errors: {}
+  diffs:
+  - རྦད་
+  - རྦད་
+  - སྦད་
+  - སྦད་
+  - སྦད་
+  elected: སྦད་
+c26be0a91d8a4caa84a57c411e42eaa3:
+  span:
+    start: 40503
+    end: 40507
+    errors: {}
+  diffs:
+  - ཉིས་
+  - ཉིས་
+  - ཉེས་
+  - ཉེས་
+  - ཉེས་
+  elected: ཉེས་
+18ef324ac2a6450e978a5c6188444c02:
+  span:
+    start: 40671
+    end: 40673
+    errors: {}
+  diffs:
+  - ཀ་
+  - ཀ་
+  - ག་
+  - ག་
+  - ག་
+  elected: ག་
+068be5f158b944f6891fefbcdc85c83f:
+  span:
+    start: 40810
+    end: 40816
+    errors: {}
+  diffs:
+  - ལྡོངས་
+  - ལྡོངས་
+  - མདོངས་
+  - མདོངས་
+  - མདོངས་
+  elected: མདོངས་
+15b1e61f1a6e4f198b1f66bae8afffc1:
+  span:
+    start: 40960
+    end: 40963
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+b197c0ab96e14a9bb4571570f1e32bfb:
+  span:
+    start: 41057
+    end: 41059
+    errors: {}
+  diffs:
   - ན།
   - ན།
   - བ།
-  src_txt: པ།
-44163:
-  alt_diffs:
+  - པ།
+  - པ།
+  elected: པ།
+e62f55f59f424dcd9862beb4d66d54e9:
+  span:
+    start: 42337
+    end: 42339
+    errors: {}
+  diffs:
+  - ཀ་
+  - ཀ་
+  - ག་
+  - ག་
+  - ག་
+  elected: ག་
+9b1a349c5c21470db8409934f5129cd7:
+  span:
+    start: 42391
+    end: 42393
+    errors: {}
+  diffs:
+  - ཀ་
+  - ཀ་
+  - ག་
+  - ག་
+  - ག་
+  elected: ག་
+dbb5b29af1c542b3b08d7d4573e43719:
+  span:
+    start: 42411
+    end: 42414
+    errors: {}
+  diffs:
+  - ན་
+  - ན་
+  - སུ་
+  - སུ་
+  - སུ་
+  elected: སུ་
+a380a1485c76493794f5ddc5fa537405:
+  span:
+    start: 43254
+    end: 43257
+    errors: {}
+  diffs:
+  - ཀས་
+  - ཀས་
+  - གས་
+  - གས་
+  - གས་
+  elected: གས་
+b4f3e59ab7ab440082892277b5953943:
+  span:
+    start: 43421
+    end: 43424
+    errors: {}
+  diffs:
+  - དེ་
+  - དེ་
+  - ཏེ་
+  - ཏེ་
+  - ཏེ་
+  elected: ཏེ་
+d65c81963d3b4cf5b94c0f408d88be01:
+  span:
+    start: 43686
+    end: 43689
+    errors: {}
+  diffs:
+  - ཚེ།
+  - ཚོ།
+  - མེ།
+  - མེ།
+  - མེ།
+  elected: མེ།
+11237b833b4f46fd8bc74fb694b59e48:
+  span:
+    start: 43768
+    end: 43772
+    errors: {}
+  diffs:
+  - རིགས།
+  - རིགས།
+  - རིགས།
+  - ཡིན།
+  - ཡིན།
+  elected: རིགས།
+23500e01e8434683af8a366c5618549c:
+  span:
+    start: 44163
+    end: 44165
+    errors: {}
+  diffs:
   - ཀྱང་
   - ཀྱང་
-  - ཀྱང༌།
-  src_txt: ཡང་།
-46220:
-  alt_diffs:
-  - གཏོང་ཞིང་
-  - གཏོང་ཞིང་
-  - གཏོང་ཞིང༌།
-  src_txt: ཤོར་ཅིང་། །
-46702:
-  alt_diffs:
+  - ཀྱང
+  - ཡང
+  - ཡང
+  elected: ཡང
+1dc177c30b444890896cd37608535cb5:
+  span:
+    start: 45326
+    end: 45328
+    errors: {}
+  diffs:
+  - ཏུ
+  - ཏུ
+  - དུ
+  - དུ
+  - དུ
+  elected: དུ
+f197ad74fa48403181c7376cb49959ca:
+  span:
+    start: 46013
+    end: 46017
+    errors: {}
+  diffs:
+  - ཚེར་
+  - ཚོར་
+  - ཆེར་
+  - ཆེར་
+  - ཆེར་
+  elected: ཆེར་
+7ba971ef5ec646c69fe3b22d564948d0:
+  span:
+    start: 46220
+    end: 46224
+    errors: {}
+  diffs:
+  - གཏོང་
+  - གཏོང་
+  - གཏོང་
+  - ཤོར་
+  - ཤོར་
+  elected: གཏོང་
+95d829ed6bb747acae587f0051aebe53:
+  span:
+    start: 46224
+    end: 46231
+    errors: {}
+  diffs:
+  - ཞིང་
+  - ཞིང་
+  - ཞིང༌།
+  - ཅིང་། །
+  - ཅིང་། །
+  elected: ཅིང་། །
+e3cf0311f7aa4e7380b28352dd4af8e0:
+  span:
+    start: 46362
+    end: 46364
+    errors: {}
+  diffs:
+  - ངུ།
+  - ངུ
+  - དུ
+  - དུ
+  - དུ
+  elected: དུ
+75614f74121c4d89b7d206d74ebcb54c:
+  span:
+    start: 46702
+    end: 46709
+    errors: {}
+  diffs:
   - ཅི་
   - ཅི་
   - ཅིའི་ཕྱིར་
-  src_txt: ཇི་ལྟར་
-50145:
-  alt_diffs:
-  - ངེས་བརྟུལ་
-  - ངེས་བཏུལ་
-  - ངེས་བརྟུལ་
-  src_txt: བཟུང་ནས་
-51826:
-  alt_diffs:
+  - ཇི་ལྟར་
+  - ཇི་ལྟར་
+  elected: ཇི་ལྟར་
+14bf47c0a21a4199a3225fc890ad315c:
+  span:
+    start: 47610
+    end: 47612
+    errors: {}
+  diffs:
+  - བ།
+  - བ།
+  - པ།
+  - པ།
+  - པ།
+  elected: པ།
+0d90e86efec34b9098b76f61064b60dc:
+  span:
+    start: 47673
+    end: 47678
+    errors: {}
+  diffs:
+  - བྱིན་
+  - བྱིན་
+  - ཕྱིན་
+  - ཕྱིན་
+  - ཕྱིན་
+  elected: ཕྱིན་
+3750223c36e94c3182a1bfc7e696ef70:
+  span:
+    start: 49208
+    end: 49211
+    errors: {}
+  diffs:
+  - དག་
+  - དག་
+  - ངག་
+  - ངག་
+  - ངག་
+  elected: ངག་
+23146efe16714482bd68f94cb9464f07:
+  span:
+    start: 50145
+    end: 50153
+    errors: {}
+  diffs:
+  - བརྟུལ་
+  - བརྟུལ་
+  - བཟུང་ནས་
+  - བཟུང་ནས་
+  - བཟུང་ནས་
+  elected: བཟུང་ནས་
+aa367060fa8a4a89ac8e0771a0f5624a:
+  span:
+    start: 50543
+    end: 50546
+    errors: {}
+  diffs:
+  - དི་
+  - དི་
+  - དེ་
+  - དེ་
+  - དེ་
+  elected: དེ་
+d8d6bd33ef98403a8c63cb3416485dda:
+  span:
+    start: 50727
+    end: 50730
+    errors: {}
+  diffs:
+  - དཔུ
+  - དཔུ
+  - མཐུ
+  - མཐུ
+  - མཐུ
+  elected: མཐུ
+161e4fa03b064a4c888103425e8c73ad:
+  span:
+    start: 50776
+    end: 50780
+    errors: {}
+  diffs:
+  - བསད་
+  - བསད་
+  - གསད་
+  - གསད་
+  - གསད་
+  elected: གསད་
+2d73176b63054ee29f819afd51235a1c:
+  span:
+    start: 50853
+    end: 50857
+    errors: {}
+  diffs:
+  - ལྟས་
+  - ལས་
+  - ལྟར་
+  - ལྟར་
+  - ལྟར་
+  elected: ལྟར་
+09edf98a7d5249a19ec99ed3d9b16435:
+  span:
+    start: 51229
+    end: 51235
+    errors: {}
+  diffs:
+  - སྐྱིད་
+  - སྐྱིད་
+  - སྐྱེད་
+  - སྐྱེད་
+  - སྐྱེད་
+  elected: སྐྱེད་
+f098f5ad19d54cc5967a88c9814574bc:
+  span:
+    start: 51826
+    end: 51829
+    errors: {}
+  diffs:
   - བས་
   - བས་
-  src_txt: པས་
-57181:
-  alt_diffs:
-  - པ་སྟེ།
-  - པ་སྟེ།
-  - པ་སྟེ།
-  src_txt: པས་ཏེ།
-59757:
-  alt_diffs:
+  - པས་
+  - པས་
+  - པས་
+  elected: པས་
+d7c5df1d671247df9b18497e550f23ac:
+  span:
+    start: 53142
+    end: 53147
+    errors: {}
+  diffs:
+  - དགོད་
+  - དགོད་
+  - རྒོད་
+  - རྒོད་
+  - རྒོད་
+  elected: རྒོད་
+101fae925f424436a22a79e26ed44724:
+  span:
+    start: 55250
+    end: 55252
+    errors: {}
+  diffs:
+  - པ།
+  - པ།
+  - བ།
+  - བ།
+  - བ།
+  elected: བ།
+614a74541a594596aec66d4dbb55345f:
+  span:
+    start: 55336
+    end: 55339
+    errors: {}
+  diffs:
+  - ཀོ་
+  - ཀོ་
+  - གོ་
+  - གོ་
+  - གོ་
+  elected: གོ་
+97a970588e674a6086d5a5be5a5acfb0:
+  span:
+    start: 55621
+    end: 55626
+    errors: {}
+  diffs:
+  - པོས་
+  - པོའོ་
+  - པོའི་
+  - པོའི་
+  - པོའི་
+  elected: པོའི་
+698937ec4ddc4479bf55ee61c5c46e3f:
+  span:
+    start: 55756
+    end: 55760
+    errors: {}
+  diffs:
+  - དུ་
+  - དུ་
+  - གྱི་
+  - གྱི་
+  - གྱི་
+  elected: གྱི་
+a1c9b5f111974dfc9fc4e89dc0b2dfc5:
+  span:
+    start: 56398
+    end: 56403
+    errors: {}
+  diffs:
+  - བསིལ་
+  - བསིལ་
+  - བསིལ་
+  - བསེལ་
+  - བསེལ་
+  elected: བསིལ་
+3a7f447905f64b53b68d01d80d16e1f3:
+  span:
+    start: 56991
+    end: 56993
+    errors: {}
+  diffs:
+  - ཉི
+  - ཉི
+  - ནི
+  - ནི
+  - ནི
+  elected: ནི
+c77572d274674979815a2082d83209c4:
+  span:
+    start: 57145
+    end: 57151
+    errors: {}
+  diffs:
+  - འགྲུབ་
+  - འགྲུབ་
+  - སྒྲུབ་
+  - སྒྲུབ་
+  - སྒྲུབ་
+  elected: སྒྲུབ་
+e3a17b16b0954e83a516285dc1e4a72f:
+  span:
+    start: 57184
+    end: 57187
+    errors: {}
+  diffs:
+  - སྟེ།
+  - སྟེ།
+  - ཏེ།
+  - ཏེ།
+  - ཏེ།
+  elected: ཏེ།
+7528287d9d4c416097de3d43d07a286d:
+  span:
+    start: 57457
+    end: 57464
+    errors: {}
+  diffs:
+  - བྱེད་དེ།
+  - བྱེད་དེ།
+  - བྱས་ཏེ།
+  - བྱས་ཏེ།
+  - བྱས་ཏེ།
+  elected: བྱས་ཏེ།
+732aa76bb6204fdd8a212ee92f1b45f8:
+  span:
+    start: 57642
+    end: 57644
+    errors: {}
+  diffs:
+  - པ་
+  - པ་
+  - བ་
+  - བ་
+  - བ་
+  elected: བ་
+de28d389e9fd41a0ada13401d9b35cf6:
+  span:
+    start: 57677
+    end: 57680
+    errors: {}
+  diffs:
+  - བྱས་
+  - བྱས་
+  - པས་
+  - པས་
+  - པས་
+  elected: པས་
+d5d801186db64ea18350988431c6b519:
+  span:
+    start: 58082
+    end: 58085
+    errors: {}
+  diffs:
+  - ནས།
+  - ནས།
+  - ནི།
+  - ནི།
+  - ནི།
+  elected: ནི།
+f14322043aae4328a4b256b8d4bd0073:
+  span:
+    start: 58156
+    end: 58159
+    errors: {}
+  diffs:
+  - ཟན་
+  - ཟན་
+  - ཟས་
+  - ཟས་
+  - ཟས་
+  elected: ཟས་
+8f5fee319c2849a195edc0b4f3225f1c:
+  span:
+    start: 58781
+    end: 58783
+    errors: {}
+  diffs:
+  - སླ
+  - སླ
+  - བླ
+  - བླ
+  - བླ
+  elected: བླ
+8f362ed8f83340d59ac8405252017406:
+  span:
+    start: 58796
+    end: 58799
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+c0f47d98c93742b19dc715a6695a514b:
+  span:
+    start: 59570
+    end: 59575
+    errors: {}
+  diffs:
+  - འཇེབས་
+  - འཇེབས་
+  - གཞོམ་
+  - གཞོམ་
+  - གཞོམ་
+  elected: གཞོམ་
+37c251ef1e304b0c8b54985962f69699:
+  span:
+    start: 59757
+    end: 59759
+    errors: {}
+  diffs:
   - པ།
   - པ།
   - པ།
-  src_txt: བ།
-59782:
-  alt_diffs:
+  - བ།
+  - བ།
+  elected: པ།
+64415de169f448829a82ba4b4779f416:
+  span:
+    start: 59782
+    end: 59784
+    errors: {}
+  diffs:
   - གྱུར་
   - གྱུར་
   - གྱུར་
-  src_txt: པ་
-61843:
-  alt_diffs:
+  - པ་
+  - པ་
+  elected: གྱུར་
+43c6faad90204d2c83cffdc4e994c206:
+  span:
+    start: 59838
+    end: 59843
+    errors: {}
+  diffs:
+  - བསྐུར་
+  - བསྐུར་
+  - བཀུར་
+  - བཀུར་
+  - བཀུར་
+  elected: བཀུར་
+9c871b6dc25b4970850bf1b7447fc091:
+  span:
+    start: 59982
+    end: 59985
+    errors: {}
+  diffs:
+  - པས་
+  - པས་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+dfc6a45533a244afbee0b3ad7ddd836a:
+  span:
+    start: 60683
+    end: 60687
+    errors: {}
+  diffs:
+  - མཆེ་
+  - མཆེ་
+  - མཆི་
+  - མཆི་
+  - མཆི་
+  elected: མཆི་
+13a61e60707248508ca2bc6f8fa8b114:
+  span:
+    start: 60923
+    end: 60928
+    errors: {}
+  diffs:
+  - སྤྱད་
+  - སྤྱད་
+  - དཔྱད་
+  - དཔྱད་
+  - དཔྱད་
+  elected: དཔྱད་
+b6ed2ae049224c6abdbe7d897af641f9:
+  span:
+    start: 61400
+    end: 61403
+    errors: {}
+  diffs:
+  - མལ་
+  - མལ་
+  - མར་
+  - མར་
+  - མར་
+  elected: མར་
+a6e86145ee50474288744fa6de7a5928:
+  span:
+    start: 61843
+    end: 61846
+    errors: {}
+  diffs:
   - ངག་
   - ངག་
   - ངག་
   - ངག་
-  src_txt: དག་
-65213:
-  alt_diffs:
+  - དག་
+  elected: ངག་
+cd15aee2f7aa4576836b7771f80076fd:
+  span:
+    start: 62246
+    end: 62251
+    errors: {}
+  diffs:
+  - བྱོལ་
+  - བྱོལ་
+  - བྱོལ་
+  - བྱེལ་
+  - བྱེལ་
+  elected: བྱོལ་
+abf38731e2554b41bc84d7e0c03100b7:
+  span:
+    start: 62674
+    end: 62678
+    errors: {}
+  diffs:
+  - ཞིང་
+  - ཞིང་
+  - ཅིང་
+  - ཅིང་
+  - ཅིང་
+  elected: ཅིང་
+207c4594a7424a779135d7daf85d453e:
+  span:
+    start: 62871
+    end: 62875
+    errors: {}
+  diffs:
+  - པའི་
+  - པའི་
+  - པའི་
+  - བའི་
+  - བའི་
+  elected: པའི་
+368cd2f5a8044b07bc0ec4d056847c03:
+  span:
+    start: 63127
+    end: 63129
+    errors: {}
+  diffs:
+  - པ་
+  - པ་
+  - པ་
+  - བ་
+  - བ་
+  elected: པ་
+143a6701e633491ab339064de83b7c2c:
+  span:
+    start: 63498
+    end: 63503
+    errors: {}
+  diffs:
+  - སྟོང་
+  - སྟོང་
+  - སྟེང་
+  - སྟེང་
+  - སྟེང་
+  elected: སྟེང་
+45da6f8802714833b83c08877a60cafc:
+  span:
+    start: 63889
+    end: 63893
+    errors: {}
+  diffs:
+  - པའི་
+  - པའི་
+  - པའི་
+  - བའི་
+  - བའི་
+  elected: པའི་
+205f05f3af2b4beba6a58fec1d5a770b:
+  span:
+    start: 64743
+    end: 64746
+    errors: {}
+  diffs:
+  - བར་
+  - བར་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+fbdc9c482ac44eaf983f748ad88e5795:
+  span:
+    start: 64981
+    end: 64984
+    errors: {}
+  diffs:
+  - པར་
+  - པར་
+  - ཏེ་
+  - ཏེ་
+  - ཏེ་
+  elected: ཏེ་
+d9cda96ef9974e0eb8d53bcf9a8c01cc:
+  span:
+    start: 65012
+    end: 65017
+    errors: {}
+  diffs:
+  - ཏུའང་
+  - ཏུའང་
+  - དུའང་
+  - དུའང་
+  - དུའང་
+  elected: དུའང་
+5876423f79e048559304e40833aac98d:
+  span:
+    start: 65089
+    end: 65092
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+bf64dfdd057e400eaff4e59bcd68508c:
+  span:
+    start: 65213
+    end: 65219
+    errors: {}
+  diffs:
   - འཛེམས་
   - འཛེམས་
   - འཛེམས་
-  src_txt: འཛོམས་
-66151:
-  alt_diffs:
+  - འཛོམས་
+  - འཛོམས་
+  elected: འཛེམས་
+569d34e7ae034592aad897a40183e115:
+  span:
+    start: 65939
+    end: 65942
+    errors: {}
+  diffs:
+  - དེ་
+  - དེ་
+  - ནི་
+  - ནི་
+  - ནི་
+  elected: ནི་
+a0d79676012f4af480d5dab8914f678a:
+  span:
+    start: 66151
+    end: 66155
+    errors: {}
+  diffs:
   - གཤང་
   - བཤད་
-  src_txt: བཤང་
-66183:
-  alt_diffs:
+  - བཤང་
+  - བཤང་
+  - བཤང་
+  elected: བཤང་
+2b7b542dc19047858385181a244c3790:
+  span:
+    start: 66183
+    end: 66187
+    errors: {}
+  diffs:
   - གཤང་
   - བཤད་
-  src_txt: བཤང་
-71566:
-  alt_diffs:
-  - གཉིས་ཀ །
-  - གཉིས་ཀ། སྡུག་
-  - གཉིས་ཀ །སྡུག་བསྔལ་མི་འདོད་མཚུངས་པ་ལ། །བདག་དང་ཁྱད་པར་ཅི་ཡོད་ན། །གང་ཕྱིར་བདག་གཅིག་བདེ་བ་བརྩོན།
-    །གང་ཚེ་བདག་དང་གཞན་གཉིས་ཀ །
-  src_txt: གཉི་ག །
-99671:
-  alt_diffs:
+  - བཤང་
+  - བཤང་
+  - བཤང་
+  elected: བཤང་
+3f5d560cf70f4cd1a75605e7d448ccee:
+  span:
+    start: 66755
+    end: 66757
+    errors: {}
+  diffs:
+  - ཅི
+  - ཅི
+  - ཇི
+  - ཇི
+  - ཇི
+  elected: ཇི
+4d46e259cf6945309956fe1a457a2ecf:
+  span:
+    start: 66758
+    end: 66762
+    errors: {}
+  diffs:
+  - མི་
+  - མི་
+  - ལྟར་
+  - ལྟར་
+  - ལྟར་
+  elected: ལྟར་
+f6c1799409a945deb1261cf31979c24a:
+  span:
+    start: 67395
+    end: 67398
+    errors: {}
+  diffs:
+  - པོའི་
+  - པོའོ་
+  - གི་
+  - གི་
+  - གི་
+  elected: གི་
+8a5a3ef5b7714461b1d5e2efb706d6ac:
+  span:
+    start: 67555
+    end: 67559
+    errors: {}
+  diffs:
+  - བུར་
+  - བུར་
+  - པུར་
+  - པུར་
+  - པུར་
+  elected: པུར་
+14068d2027324a97bcef80ebc7c06f9b:
+  span:
+    start: 68068
+    end: 68073
+    errors: {}
+  diffs:
+  - སྲེད་
+  - སྲེད་
+  - སྲེག་
+  - སྲེག་
+  - སྲེག་
+  elected: སྲེག་
+ceb66e695f664d0d93be68e9bd22038d:
+  span:
+    start: 69069
+    end: 69071
+    errors: {}
+  diffs:
+  - པ་
+  - པ་
+  - བ་
+  - བ་
+  - བ་
+  elected: བ་
+4d3a17e6378c49aaa849bb75c6c62da0:
+  span:
+    start: 69152
+    end: 69156
+    errors: {}
+  diffs:
+  - ཤིང་
+  - ཤིང་
+  - ཞིང་
+  - ཞིང་
+  - ཞིང་
+  elected: ཞིང་
+0e03071ab5e4452897d62361c1b451eb:
+  span:
+    start: 69963
+    end: 69966
+    errors: {}
+  diffs:
+  - ཏུ།
+  - ཏུ།
+  - དུ།
+  - དུ།
+  - དུ།
+  elected: དུ།
+1fcb999c567d4529a048b879a234c097:
+  span:
+    start: 71463
+    end: 71466
+    errors: {}
+  diffs:
+  - ཀ །
+  - 'ཀ། '
+  - ག༌།
+  - ག །
+  - ག །
+  elected: ག །
+dd236dec08f94c169644589cb4d69217:
+  span:
+    start: 71570
+    end: 71573
+    errors: {}
+  diffs:
+  - 'ཀ། '
+  - ཀ །
+  - ག །
+  - ག །
+  - ག །
+  elected: ག །
+d14241be0da04f2ab9a762d7f191222c:
+  span:
+    start: 72078
+    end: 72081
+    errors: {}
+  diffs:
+  - དེ།
+  - དེ།
+  - ཏེ།
+  - ཏེ།
+  - ཏེ།
+  elected: ཏེ།
+6e6756b886c64068994efa0b343e3f33:
+  span:
+    start: 72123
+    end: 72127
+    errors: {}
+  diffs:
+  - ཅེས་
+  - ཅེས་
+  - ཞེས་
+  - ཞེས་
+  - ཞེས་
+  elected: ཞེས་
+00fe10c704b74487a3c32f047a4f38c9:
+  span:
+    start: 72209
+    end: 72213
+    errors: {}
+  diffs:
+  - དབང་
+  - དབང་
+  - སྤང་
+  - སྤང་
+  - སྤང་
+  elected: སྤང་
+e0f561705d0c4e6d93ebd394dcba56d6:
+  span:
+    start: 72318
+    end: 72322
+    errors: {}
+  diffs:
+  - དིར་
+  - དིར་
+  - དེར་
+  - དེར་
+  - དེར་
+  elected: དེར་
+02c18bd54e7c4d8aaff6be8c33662929:
+  span:
+    start: 72945
+    end: 72948
+    errors: {}
+  diffs:
+  - ནི་
+  - ནི་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+4703ed4d0e494027bfb1d9a254fe9d3d:
+  span:
+    start: 73351
+    end: 73354
+    errors: {}
+  diffs:
+  - ཀོ་
+  - ཀོ་
+  - གོ་
+  - གོ་
+  - གོ་
+  elected: གོ་
+9afe653867e544c3be2bf685c3a857d1:
+  span:
+    start: 73423
+    end: 73428
+    errors: {}
+  diffs:
+  - བཟུང་
+  - བཟུང་
+  - གཟུང་
+  - གཟུང་
+  - གཟུང་
+  elected: གཟུང་
+f3aeb0ae856c41e1beb58c3ad9f8b7de:
+  span:
+    start: 73995
+    end: 74000
+    errors: {}
+  diffs:
+  - འགྲོ་
+  - འགྲོ་
+  - འགྲེ་
+  - འགྲེ་
+  - འགྲེ་
+  elected: འགྲེ་
+06c0180b2e194c0189f1bd98028a2717:
+  span:
+    start: 74943
+    end: 74947
+    errors: {}
+  diffs:
+  - ཞེས།
+  - ཞེས།
+  - ཅེས།
+  - ཅེས།
+  - ཅེས།
+  elected: ཅེས།
+7b5ec0131be44c4ca8af8978ba514478:
+  span:
+    start: 75025
+    end: 75028
+    errors: {}
+  diffs:
+  - བར་
+  - བར་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+53d7a93a45ce49ac8931257f05cae610:
+  span:
+    start: 75747
+    end: 75751
+    errors: {}
+  diffs:
+  - བས།
+  - བས།
+  - བའི།
+  - བའི།
+  - བའི།
+  elected: བའི།
+64a74dcc748545a0a219675cf73be109:
+  span:
+    start: 76166
+    end: 76170
+    errors: {}
+  diffs:
+  - ལྟས་
+  - ལྟས་
+  - ལྟར་
+  - ལྟར་
+  - ལྟར་
+  elected: ལྟར་
+a3ed64b88f864b549a52302719fe590e:
+  span:
+    start: 77080
+    end: 77084
+    errors: {}
+  diffs:
+  - རྒུད་
+  - རྒུད་
+  - གུད་
+  - གུད་
+  - གུད་
+  elected: གུད་
+15b6736e20f5496eb1a1267e5eee54a4:
+  span:
+    start: 77345
+    end: 77348
+    errors: {}
+  diffs:
+  - པས་
+  - པས་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+7924efe49a924c9f88cdc443d6202de6:
+  span:
+    start: 77392
+    end: 77396
+    errors: {}
+  diffs:
+  - བསྡོ་
+  - བསྡོ་
+  - བདོ་
+  - བདོ་
+  - བདོ་
+  elected: བདོ་
+db469bbb7fd744f6986222ca6cf3e937:
+  span:
+    start: 77563
+    end: 77567
+    errors: {}
+  diffs:
+  - གསལ་
+  - གསལ་
+  - བསལ་
+  - བསལ་
+  - བསལ་
+  elected: བསལ་
+8dc5944950f642cb9ea13c81f20e53ba:
+  span:
+    start: 77903
+    end: 77907
+    errors: {}
+  diffs:
+  - ཞེས་
+  - ཞེས་
+  - ཅེས་
+  - ཅེས་
+  - ཅེས་
+  elected: ཅེས་
+7f8a6a6552bb45bd9cc4c4195197a49a:
+  span:
+    start: 77983
+    end: 77990
+    errors: {}
+  diffs:
+  - གྲགས་
+  - གྲགས་
+  - བསྒྲགས་
+  - བསྒྲགས་
+  - བསྒྲགས་
+  elected: བསྒྲགས་
+18c160c1743d4718adea2456e73d070b:
+  span:
+    start: 78047
+    end: 78051
+    errors: {}
+  diffs:
+  - བའི
+  - བའི།
+  - པའི།
+  - པའི།
+  - པའི།
+  elected: པའི།
+f669bb78c5c44f34a7d6fa1cfb47551c:
+  span:
+    start: 78385
+    end: 78389
+    errors: {}
+  diffs:
+  - བུས།
+  - བུས།
+  - བུར།
+  - བུར།
+  - བུར།
+  elected: བུར།
+218305b71d344232b316b621234b91d8:
+  span:
+    start: 79346
+    end: 79349
+    errors: {}
+  diffs:
+  - ཅས་
+  - ཅས་
+  - ཅན་
+  - ཅན་
+  - ཅན་
+  elected: ཅན་
+8b2f880addc442a2a471056286efcd9b:
+  span:
+    start: 79963
+    end: 79965
+    errors: {}
+  diffs:
+  - ད་
+  - ད་
+  - ང་
+  - ང་
+  - ང་
+  elected: ང་
+ca3d2d32bd9f4575b83e33e04249b84d:
+  span:
+    start: 80217
+    end: 80222
+    errors: {}
+  diffs:
+  - སྦྱིན་
+  - སྦྱིན་
+  - བྱིན་
+  - བྱིན་
+  - བྱིན་
+  elected: བྱིན་
+4f47bc7eb66843c895675bcc1046ee4a:
+  span:
+    start: 80287
+    end: 80289
+    errors: {}
+  diffs:
+  - ད་
+  - ད་
+  - ང་
+  - ང་
+  - ང་
+  elected: ང་
+ad89abd122ab43b688fea859348b827e:
+  span:
+    start: 80559
+    end: 80564
+    errors: {}
+  diffs:
+  - ལྷུང་
+  - ལྷུང་
+  - ལྟུང་
+  - ལྟུང་
+  - ལྟུང་
+  elected: ལྟུང་
+f4d8b305dd6140b9b61ff953f789192e:
+  span:
+    start: 81486
+    end: 81488
+    errors: {}
+  diffs:
+  - པ།
+  - པ།
+  - བ།
+  - བ།
+  - བ།
+  elected: བ།
+725118c7e5bd43a9a48a43cb9d5b7e5d:
+  span:
+    start: 81552
+    end: 81555
+    errors: {}
+  diffs:
+  - ཀོ་
+  - ཀོ་
+  - གོ་
+  - གོ་
+  - གོ་
+  elected: གོ་
+f7d95dbec13645f9a39b166a0f46d93d:
+  span:
+    start: 82522
+    end: 82524
+    errors: {}
+  diffs:
+  - ཀ་
+  - ཀ་
+  - ག་
+  - ག་
+  - ག་
+  elected: ག་
+fe80159c4e5041b488ec717d863461d5:
+  span:
+    start: 83020
+    end: 83024
+    errors: {}
+  diffs:
+  - ངེས་
+  - ངེས་
+  - ངེས་
+  - དེས་
+  - དེས་
+  elected: ངེས་
+f19adf1b31584fc485d38f5c86bbcc06:
+  span:
+    start: 84726
+    end: 84728
+    errors: {}
+  diffs:
+  - དང་
+  - དང་
+  - ན་
+  - ན་
+  - ན་
+  elected: ན་
+082ee73d81e34e3d80a17874d0277a1b:
+  span:
+    start: 84734
+    end: 84736
+    errors: {}
+  diffs:
+  - བ་
+  - བ་
+  - པ་
+  - པ་
+  - པ་
+  elected: པ་
+1b2052aa823e4af7bcf9a17c84a66e50:
+  span:
+    start: 84817
+    end: 84820
+    errors: {}
+  diffs:
+  - རང་
+  - རང་
+  - རབ་
+  - རབ་
+  - རབ་
+  elected: རབ་
+04de6b115dee40ceb6dcc428d7355dc7:
+  span:
+    start: 87359
+    end: 87362
+    errors: {}
+  diffs:
+  - དི་
+  - དི་
+  - དེ་
+  - དེ་
+  - དེ་
+  elected: དེ་
+94e3b32d1a27461492501fdaf6c2089f:
+  span:
+    start: 88688
+    end: 88693
+    errors: {}
+  diffs:
+  - རྔུལ་
+  - རྔུལ་
+  - རྡུལ་
+  - རྡུལ་
+  - རྡུལ་
+  elected: རྡུལ་
+fd04f02f6fd84dd3a9f7639cf1e0c46f:
+  span:
+    start: 88857
+    end: 88860
+    errors: {}
+  diffs:
+  - ཏུ།
+  - ཏུ།
+  - དུ།
+  - དུ།
+  - དུ།
+  elected: དུ།
+88d69de6951641ebba5394c477b7b688:
+  span:
+    start: 89895
+    end: 89898
+    errors: {}
+  diffs:
+  - ཅི་
+  - ཅི་
+  - ཇི་
+  - ཇི་
+  - ཇི་
+  elected: ཇི་
+eef795d1dde9473bb55a957ae72a4098:
+  span:
+    start: 90117
+    end: 90121
+    errors: {}
+  diffs:
+  - གཞི་
+  - གཞི་
+  - བཞི་
+  - བཞི་
+  - བཞི་
+  elected: བཞི་
+ce336f9f9f594af4b78372e2391d116e:
+  span:
+    start: 90169
+    end: 90171
+    errors: {}
+  diffs:
+  - ཀ་
+  - ཀ་
+  - ག་
+  - ག་
+  - ག་
+  elected: ག་
+38e51bba94d344d19d2f68132a1fb490:
+  span:
+    start: 91372
+    end: 91374
+    errors: {}
+  diffs:
+  - དུ་
+  - དུ་
+  - ན་
+  - ན་
+  - ན་
+  elected: ན་
+446ed67c49474737b6d7b3bb175a4d14:
+  span:
+    start: 92245
+    end: 92248
+    errors: {}
+  diffs:
+  - ཚེ་
+  - ཚོ་
+  - ནི་
+  - ནི་
+  - ནི་
+  elected: ནི་
+abd21840683a4f76b81670c763d910a7:
+  span:
+    start: 92463
+    end: 92467
+    errors: {}
+  diffs:
+  - ཅེས་
+  - ཅེས་
+  - ཞེས་
+  - ཞེས་
+  - ཞེས་
+  elected: ཞེས་
+463a6c9d769544339f62018064d8e232:
+  span:
+    start: 92619
+    end: 92622
+    errors: {}
+  diffs:
+  - བར་
+  - བར་
+  - པར་
+  - པར་
+  - པར་
+  elected: པར་
+0d5c5eafa95a473fbdcfa0defee09a98:
+  span:
+    start: 93653
+    end: 93656
+    errors: {}
+  diffs:
+  - ནའང་
+  - ནའང་
+  - ཡང་
+  - ཡང་
+  - ཡང་
+  elected: ཡང་
+7cb4f7e231454ffcbff5b644a801471a:
+  span:
+    start: 94796
+    end: 94798
+    errors: {}
+  diffs:
+  - ཀ་
+  - ཀ་
+  - ག་
+  - ག་
+  - ག་
+  elected: ག་
+dfe9e4b9a773455683dd1dd010ad2b3b:
+  span:
+    start: 95289
+    end: 95292
+    errors: {}
+  diffs:
+  - ཤེ་
+  - ཤེ་
+  - ཞེ་
+  - ཞེ་
+  - ཞེ་
+  elected: ཞེ་
+7f4ab413bb564561b9ad65605ad0cd65:
+  span:
+    start: 95657
+    end: 95660
+    errors: {}
+  diffs:
+  - ནས་
+  - ནས་
+  - ནི་
+  - ནི་
+  - ནི་
+  elected: ནི་
+6972cde4b3b3453385cc547ee4978351:
+  span:
+    start: 95879
+    end: 95883
+    errors: {}
+  diffs:
+  - བས་
+  - བས་
+  - ཡིས་
+  - ཡིས་
+  - ཡིས་
+  elected: ཡིས་
+e59a212b6cfa42c0b3b4ba6337ffb9bb:
+  span:
+    start: 96809
+    end: 96815
+    errors: {}
+  diffs:
+  - ཟིན་མིན་
+  - ཟིན་མིན་
+  - མ་ཟིན་
+  - མ་ཟིན་
+  - མ་ཟིན་
+  elected: མ་ཟིན་
+69c9c41c00674bb7abdae04204a6da9b:
+  span:
+    start: 97126
+    end: 97129
+    errors: {}
+  diffs:
+  - བས།
+  - བས།
+  - པས།
+  - པས།
+  - པས།
+  elected: པས།
+69201587a8c549edb1449edd43e82c12:
+  span:
+    start: 98361
+    end: 98364
+    errors: {}
+  diffs:
+  - བུ་
+  - བུ་
+  - སུ་
+  - སུ་
+  - སུ་
+  elected: སུ་
+55eef1d1687c4876ac02ece0915c1aca:
+  span:
+    start: 98744
+    end: 98747
+    errors: {}
+  diffs:
+  - དང་
+  - དང་
+  - དེ་
+  - དེ་
+  - དེ་
+  elected: དེ་
+abd15dea408b4172aef134554e5a03cd:
+  span:
+    start: 99218
+    end: 99222
+    errors: {}
+  diffs:
+  - བའམ་
+  - བའམ་
+  - བའང་
+  - བའང་
+  - བའང་
+  elected: བའང་
+5636eff64db14be4b7be79326e0115c4:
+  span:
+    start: 99671
+    end: 99676
+    errors: {}
+  diffs:
   - ཚོགས་
   - ཚིགས་
-  src_txt: ཚེགས་
-101749:
-  alt_diffs:
-  - དགའ་ཚལ་སྡུག་
-  - དགའ་ཚལ་སྡུག་
-  - དགའ་ཚལ་སྡུག་
-  src_txt: ཙནྡན་ནགས་སྟུག་
-101773:
-  alt_diffs:
+  - ཚེགས་
+  - ཚེགས་
+  - ཚེགས་
+  elected: ཚེགས་
+6daba7aa26e549acaff370303b9a8db4:
+  span:
+    start: 100063
+    end: 100067
+    errors: {}
+  diffs:
+  - དང་
+  - དང་
+  - ནའི་
+  - ནའི་
+  - ནའི་
+  elected: ནའི་
+c4454066ca574fb2b5db83cea037a11e:
+  span:
+    start: 100883
+    end: 100888
+    errors: {}
+  diffs:
+  - བྱུང
+  - བྱུང
+  - འཁྲུང
+  - འཁྲུང
+  - འཁྲུང
+  elected: འཁྲུང
+0d36ae5ecf1b496aba4159873e1db93d:
+  span:
+    start: 100890
+    end: 100894
+    errors: {}
+  diffs:
+  - བའི།
+  - བའི།
+  - པའི།
+  - པའི།
+  - པའི།
+  elected: པའི།
+12e934d677a743c7ad7025ce894fcbbe:
+  span:
+    start: 101749
+    end: 101758
+    errors: {}
+  diffs:
+  - དགའ་ཚལ་
+  - དགའ་ཚལ་
+  - དགའ་ཚལ་
+  - ཙནྡན་ནགས་
+  - ཙནྡན་ནགས་
+  elected: དགའ་ཚལ་
+b612384ecb004fdcbb3b8c02abb88ec9:
+  span:
+    start: 101758
+    end: 101763
+    errors: {}
+  diffs:
+  - སྡུག་
+  - སྡུག་
+  - སྡུག་
+  - སྟུག་
+  - སྟུག་
+  elected: སྡུག་
+e5386ad1953d438282604d9d232ab120:
+  span:
+    start: 101773
+    end: 101776
+    errors: {}
+  diffs:
   - ལི་
   - ལི་
   - ལི་
-  src_txt: རི་
-102326:
-  alt_diffs:
+  - རི་
+  - རི་
+  elected: ལི་
+59a3895a5f474e70933438349e4971ee:
+  span:
+    start: 101824
+    end: 101829
+    errors: {}
+  diffs:
+  - མཐིང་
+  - མཐིང་
+  - འཐིང་
+  - འཐིང་
+  - འཐིང་
+  elected: འཐིང་
+f116bc8100c24a0fa1778391a9bc16e1:
+  span:
+    start: 101977
+    end: 101980
+    errors: {}
+  diffs:
+  - ཡང་
+  - ཡང་
+  - དག་
+  - དག་
+  - དག་
+  elected: དག་
+e340caf73d1e46e9a3dbfe78819a9d4c:
+  span:
+    start: 102326
+    end: 102333
+    errors: {}
+  diffs:
   - ཀུན་དའི་
   - ཀུན་དའི་
-  src_txt: ཀུནྡའི་
-102460:
-  alt_diffs:
+  - ཀུནྡའི་
+  - ཀུནྡའི་
+  - ཀུནྡའི་
+  elected: ཀུནྡའི་
+cc676d9c496d45a7b7fce24145e35a47:
+  span:
+    start: 102460
+    end: 102463
+    errors: {}
+  diffs:
   - ཁྭ་
   - ཁྭ་
   - ཁྭ་
-  src_txt: ཁྲ་
-102687:
-  alt_diffs:
-  - འགྲོགས་པར་
-  - འགྲོགས་པར་
-  - འགྲོགས་པར་
-  src_txt: འགྲོ་བར་
-103021:
-  alt_diffs:
+  - ཁྲ་
+  - ཁྲ་
+  elected: ཁྭ་
+c10b6f6d3be444e3a402e0fa4a3038a6:
+  span:
+    start: 102692
+    end: 102695
+    errors: {}
+  diffs:
+  - པར་
+  - པར་
+  - པར་
+  - བར་
+  - བར་
+  elected: པར་
+ff59067021514e108ed54ec20452050a:
+  span:
+    start: 103021
+    end: 103024
+    errors: {}
+  diffs:
   - དཔའ་
   - དཔའ་
-  src_txt: དང་
-104342:
-  alt_diffs:
+  - དང་
+  - དང་
+  - དང་
+  elected: དང་
+0e57ba8ce2d947b388b1b2861779618c:
+  span:
+    start: 103091
+    end: 103094
+    errors: {}
+  diffs:
+  - སུ་
+  - སུ་
+  - ཅི་
+  - ཅི་
+  - ཅི་
+  elected: ཅི་
+b0c4e429492547d98964c7925beb3f9f:
+  span:
+    start: 103169
+    end: 103175
+    errors: {}
+  diffs:
+  - རྗེས་
+  - རྗེས་
+  - རྗེའི་
+  - རྗེའི་
+  - རྗེའི་
+  elected: རྗེའི་
+a68191e082084553b23fbd7f53a2403a:
+  span:
+    start: 103380
+    end: 103383
+    errors: {}
+  diffs:
+  - ཏུ་
+  - ཏུ་
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+6fc038fd1b934b64849659754d2cba7e:
+  span:
+    start: 103782
+    end: 103785
+    errors: {}
+  diffs:
+  - གཟུག
+  - གཟུག
+  - མིག
+  - མིག
+  - མིག
+  elected: མིག
+917ff9df0f724fb6aeeda403a412c86b:
+  span:
+    start: 104342
+    end: 104348
+    errors: {}
+  diffs:
+  - མགྲོན་
   - མགྲོན་
   - འགྲོན་
-  src_txt: འདྲོན་
-104595:
-  alt_diffs:
+  - འདྲོན་
+  - འདྲོན་
+  elected: འདྲོན་
+b15daf631fb44d1c9180131309617a60:
+  span:
+    start: 104595
+    end: 104600
+    errors: {}
+  diffs:
   - མགྲོན་
   - མགྲོན་
   - འགྲོན
-  src_txt: འདྲོན
-104800:
-  alt_diffs:
+  - འདྲོན
+  - འདྲོན
+  elected: འདྲོན
+6d9b9f5186b9457fb3be451b30067c0c:
+  span:
+    start: 104800
+    end: 104803
+    errors: {}
+  diffs:
   - དལ་
   - དལ་
   - དལ་
-  src_txt: ངལ་
-105781:
-  alt_diffs:
+  - ངལ་
+  - ངལ་
+  elected: དལ་
+139fdf3d844c4bbcb7cff77fff91cf6c:
+  span:
+    start: 105445
+    end: 105454
+    errors: {}
+  diffs:
+  - བཟུང་
+  - བཟུང་ཤིང་
+  - གཟུང་ཞིང་
+  - གཟུང་ཞིང་
+  - གཟུང་ཞིང་
+  elected: གཟུང་ཞིང་
+a1cebd1d422a40e987497091affe3d25:
+  span:
+    start: 105781
+    end: 105789
+    errors: {}
+  diffs:
   - ཌཱུརྻའི།
   - ཌཱུཪྻའི
   - ཌཱུརྻའི།
-  src_txt: ཌཱུརྱའི།
-105814:
-  alt_diffs:
+  - ཌཱུརྱའི།
+  - ཌཱུརྱའི།
+  elected: ཌཱུརྱའི།
+f57c3499185841ccb186f6444cfc1323:
+  span:
+    start: 105814
+    end: 105821
+    errors: {}
+  diffs:
   - གྱུར་ཅིག།
   - གྱུར་ཅིག །
   - གྱུར་ཅིག །
-  src_txt: གྱུར། །
-106854:
-  alt_diffs:
-  - པས་
-  - བའི་
-  - པས་
-  src_txt: བས་
-107541:
-  alt_diffs:
-  - པར་
-  - པར་
-  src_txt: བར་
-32345:
-  alt_diffs:
-  - པ་
-  - པ་
-  - པ་
-  src_txt: བ་
-37812:
-  alt_diffs:
-  - སྡར་
-  - སྡར་
-  - སྡར་
-  src_txt: སྔར་
-40667:
-  alt_diffs:
-  - གཉིས་ཀ་
-  - གཉིས་ཀ་
-  - '    ཤུ་'
-  src_txt: གཉི་ག་སྡུག་བསྔལ་རྒྱུ་ཡིན་ཏེ། །དེས་མཚོན་བདག་གི་ལུས་ཕྱུང་ན། །གང་ཞིག་ལ་ནི་ཁྲོ་བར་བྱ།
-    །ཤུ་
-56398:
-  alt_diffs:
-  - བསིལ་
-  - བསིལ་
-  - བསིལ་
-  src_txt: བསེལ་
-62246:
-  alt_diffs:
-  - བྱོལ་
-  - བྱོལ་
-  - བྱོལ་
-  src_txt: བྱེལ་
-62871:
-  alt_diffs:
-  - པའི་
-  - པའི་
-  - པའི་
-  src_txt: བའི་
-63127:
-  alt_diffs:
-  - པ་
-  - པ་
-  - པ་
-  src_txt: བ་
-63889:
-  alt_diffs:
-  - པའི་
-  - པའི་
-  - པའི་
-  src_txt: བའི་
-83020:
-  alt_diffs:
-  - ངེས་
-  - ངེས་
-  - ངེས་
-  src_txt: དེས་
-769:
-  alt_diffs:
-  - བར་
-  - བར་
-  src_txt: པར་
-1636:
-  alt_diffs:
-  - རིན་
-  - རིན་
-  src_txt: རིང་
-2045:
-  alt_diffs:
-  - བསྟེན་
-  - བསྟེན་
-  src_txt: བརྟེན་
-2080:
-  alt_diffs:
-  - བསྟེན་
-  - བསྟེན་
-  src_txt: བརྟེན་
-2142:
-  alt_diffs:
-  - བསྟེན།
-  - བསྟེན།
-  src_txt: བརྟེན།
-2912:
-  alt_diffs:
-  - བཟངས་ཀྱིས་
-  - བཟངས་ཀྱིས་
-  src_txt: བཟང་གིས་
-3076:
-  alt_diffs:
-  - ཏེ།
-  - ཏེ།
-  src_txt: དེ།
-5277:
-  alt_diffs:
-  - དག་
-  - དག་
-  src_txt: ཞིག་
-5768:
-  alt_diffs:
-  - བཟུང་
-  - བཟུང་
-  src_txt: གཟུང་
-6453:
-  alt_diffs:
-  - བསྟར།
-  - བསྟར།
-  src_txt: ལྟར།
-6969:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-8309:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-8433:
-  alt_diffs:
-  - པས་ནི་
-  - པས་ནི་
-  src_txt: པ་ཡིས་
-10530:
-  alt_diffs:
-  - གཅོད་
-  - གཅོད་
-  src_txt: བཅད་
-10924:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-11267:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-11333:
-  alt_diffs:
-  - འདི་
-  - འདི་
-  src_txt: ནི་
-11356:
-  alt_diffs:
-  - རྗེའི་
-  - རྗེའི་
-  src_txt: རྗེས་
-12368:
-  alt_diffs:
-  - འགྱུར།
-  - འགྱུར།
-  src_txt: འབྱུང་།
-12460:
-  alt_diffs:
-  - ཅི་
-  - ཅི་
-  src_txt: ཇི་
-13824:
-  alt_diffs:
-  - འགོད་
-  - འགོད་
-  src_txt: དགོད་
-14290:
-  alt_diffs:
-  - ན་
-  - ན་
-  src_txt: དུ་
-14925:
-  alt_diffs:
-  - ན།
-  - ན།
-  src_txt: བ།
-15320:
-  alt_diffs:
-  - བར་
-  - བར་
-  src_txt: པར་
-16569:
-  alt_diffs:
-  - འཁྱམས་ཤིང་
-  - འཁྱམས་ཤིང་
-  src_txt: འཁྱམ་ཞིང་
-17211:
-  alt_diffs:
-  - བཟུང་
-  - བཟུང་
-  src_txt: གཟུང་
-18082:
-  alt_diffs:
-  - དུ་
-  - དུ་
-  src_txt: ན་
-18535:
-  alt_diffs:
-  - པས་
-  - པས་
-  src_txt: པར་
-18929:
-  alt_diffs:
-  - ན་
-  - ན་
-  src_txt: པ་
-19666:
-  alt_diffs:
-  - འདི་
-  - འདི་
-  src_txt: དེ་
-20680:
-  alt_diffs:
-  - ཆེན་
-  - ཆེན་
-  src_txt: ཅན་
-21707:
-  alt_diffs:
-  - དགྲར་ངེས་
-  - དགྲར་ངེས་
-  src_txt: དགྲ་དེས་
-22282:
-  alt_diffs:
-  - ལྟས་
-  - ལྟས་
-  src_txt: ལྟར་
-22523:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-22547:
-  alt_diffs:
-  - འདུད་
-  - འདུད་
-  src_txt: མདུད་
-22930:
-  alt_diffs:
-  - དེ་
-  - དེ་
-  src_txt: འདི་
-24094:
-  alt_diffs:
-  - མོ་
-  - མོ་
-  src_txt: མེ་
-24262:
-  alt_diffs:
-  - པས།
-  - བས།
-  src_txt: ནས།
-24298:
-  alt_diffs:
-  - དུང་
-  - དུང་
-  src_txt: རུང་
-24396:
-  alt_diffs:
-  - གཏང་
-  - གཏང་
-  src_txt: བཏང་
-25424:
-  alt_diffs:
-  - གྲོལ་
-  - གྲོལ་
-  src_txt: དྲོལ་
-26755:
-  alt_diffs:
-  - བསྟན་
-  - བསྟན་
-  src_txt: བརྟན་
-26990:
-  alt_diffs:
-  - མནོས།
-  - མནོས།
-  src_txt: གནོས།
-29017:
-  alt_diffs:
-  - འགྱེད་
-  - འགྱེད་
-  src_txt: འགྱོད་
-29275:
-  alt_diffs:
-  - དེ་ཚེ་
-  - དེ་ཚོ་
-  src_txt: དེས་ནི་
-30019:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-30106:
-  alt_diffs:
-  - བཟུང་
-  - བཟུང་
-  src_txt: གཟུང་
-31367:
-  alt_diffs:
-  - གྱིས་ཏེ།
-  - གྱིས་ཏེ།
-  src_txt: ཀྱིས་དེ།
-31705:
-  alt_diffs:
-  - གཞེན་
-  - གཞེན་
-  src_txt: བཞེན་
-31770:
-  alt_diffs:
-  - བོར་
-  - བོར་
-  src_txt: བོས་
-32173:
-  alt_diffs:
-  - གོད་
-  - གོད་
-  src_txt: གོང་
-32249:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-32291:
-  alt_diffs:
-  - བ་
-  - བ་
-  src_txt: པ་
-32517:
-  alt_diffs:
-  - བསླངས་པའམ།
-  - བསླངས་པའམ།
-  src_txt: བསླང་བའམ།
-32543:
-  alt_diffs:
-  - བསླངས་པ་
-  - བསླངས་པ་
-  src_txt: བསླང་བ་
-32623:
-  alt_diffs:
-  - དད་
-  - དད་
-  src_txt: ལྡང་
-33510:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-34134:
-  alt_diffs:
-  - བྱ་སྟེ།
-  - བྱ་སྟེ།
-  src_txt: བྱས་ཏེ།
-34972:
-  alt_diffs:
-  - གཏོང་
-  - གཏོང་
-  src_txt: བཏང་
-35601:
-  alt_diffs:
-  - འདི་
-  - འདི་
-  src_txt: དེ་
-37242:
-  alt_diffs:
-  - ཀརྞ་
-  - ཀརྞ་
-  src_txt: ཀརྣ་
-37319:
-  alt_diffs:
-  - ཀོ་
-  - ཀོ་
-  src_txt: གོ་
-37330:
-  alt_diffs:
-  - སྡར།
-  - སྡར།
-  src_txt: སྔར།
-38872:
-  alt_diffs:
-  - བཏགས་
-  - བཏགས་
-  src_txt: བརྟགས་
-39258:
-  alt_diffs:
-  - བར་
-  - བར་
-  src_txt: པར་
-40324:
-  alt_diffs:
-  - འདི་
-  - འདི་
-  src_txt: དེ་
-40409:
-  alt_diffs:
-  - བཀོན་
-  - བཀོན་
-  src_txt: དཀོན་
-40494:
-  alt_diffs:
-  - རྦད་
-  - རྦད་
-  src_txt: སྦད་
-40503:
-  alt_diffs:
-  - ཉིས་
-  - ཉིས་
-  src_txt: ཉེས་
-40810:
-  alt_diffs:
-  - ལྡོངས་
-  - ལྡོངས་
-  src_txt: མདོངས་
-40960:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-42333:
-  alt_diffs:
-  - གཉིས་ཀ་
-  - གཉིས་ཀ་
-  src_txt: གཉི་ག་
-42387:
-  alt_diffs:
-  - གཉིས་ཀ་
-  - གཉིས་ཀ་
-  src_txt: གཉི་ག་
-42411:
-  alt_diffs:
-  - ན་
-  - ན་
-  src_txt: སུ་
-43250:
-  alt_diffs:
-  - གཉིས་ཀས་
-  - གཉིས་ཀས་
-  src_txt: གཉི་གས་
-43421:
-  alt_diffs:
-  - དེ་
-  - དེ་
-  src_txt: ཏེ་
-43686:
-  alt_diffs:
-  - ཚེ།
-  - ཚོ།
-  src_txt: མེ།
-43766:
-  alt_diffs:
-  - བར་རིགས།
-  - བར་རིགས།
-  src_txt: བ་ཡིན།
-45326:
-  alt_diffs:
-  - ཏུའང་
-  - ཏུའང་
-  src_txt: དུ་
-46013:
-  alt_diffs:
-  - ཚེར་
-  - ཚོར་
-  src_txt: ཆེར་
-46362:
-  alt_diffs:
-  - ངུ།
-  - ངུ་།
-  src_txt: དུ།
-47610:
-  alt_diffs:
-  - བ།
-  - བ།
-  src_txt: པ།
-47673:
-  alt_diffs:
-  - བྱིན་
-  - བྱིན་
-  src_txt: ཕྱིན་
-48564:
-  alt_diffs:
-  - ཚོགས་
-  - ཚོགས་
-  src_txt: སུམ་
-49208:
-  alt_diffs:
-  - དག་
-  - དག་
-  src_txt: ངག་
-50543:
-  alt_diffs:
-  - འདི་
-  - འདི་
-  src_txt: དེ་
-50727:
-  alt_diffs:
-  - དཔུང་།
-  - དཔུང་།
-  src_txt: མཐུ།
-50776:
-  alt_diffs:
-  - བསད་
-  - བསད་
-  src_txt: གསད་
-50853:
-  alt_diffs:
-  - ལྟས་
-  - ལས་
-  src_txt: ལྟར་
-51229:
-  alt_diffs:
-  - སྐྱིད་
-  - སྐྱིད་
-  src_txt: སྐྱེད་
-53142:
-  alt_diffs:
-  - དགོད་
-  - དགོད་
-  src_txt: རྒོད་
-55250:
-  alt_diffs:
-  - པ།
-  - པ།
-  src_txt: བ།
-55336:
-  alt_diffs:
-  - ཀོ་
-  - ཀོ་
-  src_txt: གོ་
-55621:
-  alt_diffs:
-  - པོས་
-  - པོའོ་
-  src_txt: པོའི་
-55756:
-  alt_diffs:
-  - དུ་
-  - དུ་
-  src_txt: གྱི་
-56991:
-  alt_diffs:
-  - ཉིད་
-  - ཉིད་
-  src_txt: ནི་
-57145:
-  alt_diffs:
-  - འགྲུབ་
-  - འགྲུབ་
-  src_txt: སྒྲུབ་
-57457:
-  alt_diffs:
-  - བྱེད་དེ།
-  - བྱེད་དེ།
-  src_txt: བྱས་ཏེ།
-57642:
-  alt_diffs:
-  - པ་
-  - པ་
-  src_txt: བ་
-57677:
-  alt_diffs:
-  - བྱས་
-  - བྱས་
-  src_txt: པས་
-58082:
-  alt_diffs:
-  - ནས།
-  - ནས།
-  src_txt: ནི།
-58156:
-  alt_diffs:
-  - ཟན་
-  - ཟན་
-  src_txt: ཟས་
-58781:
-  alt_diffs:
-  - སླའི།
-  - སླའི།
-  src_txt: བླ།
-58796:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-59570:
-  alt_diffs:
-  - འཇེབས་
-  - འཇེབས་
-  src_txt: གཞོམ་
-59838:
-  alt_diffs:
-  - བསྐུར་
-  - བསྐུར་
-  src_txt: བཀུར་
-59982:
-  alt_diffs:
-  - པས་
-  - པས་
-  src_txt: པར་
-60683:
-  alt_diffs:
-  - མཆེ་
-  - མཆེ་
-  src_txt: མཆི་
-60923:
-  alt_diffs:
-  - སྤྱད་
-  - སྤྱད་
-  src_txt: དཔྱད་
-61400:
-  alt_diffs:
-  - མལ་
-  - མལ་
-  src_txt: མར་
-62674:
-  alt_diffs:
-  - ཞིང་
-  - ཞིང་
-  src_txt: ཅིང་
-63498:
-  alt_diffs:
-  - སྟོང་
-  - སྟོང་
-  src_txt: སྟེང་
-64737:
-  alt_diffs:
-  - གཡེང་བར་
-  - གཡེང་བར་
-  src_txt: གཡེངས་པར་
-64981:
-  alt_diffs:
-  - པར་
-  - པར་
-  src_txt: ཏེ་
-65012:
-  alt_diffs:
-  - ཏུའང་
-  - ཏུའང་
-  src_txt: དུའང་
-65089:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-65939:
-  alt_diffs:
-  - དེ་
-  - དེ་
-  src_txt: ནི་
-66755:
-  alt_diffs:
-  - ཅིས་མི་
-  - ཅིས་མི་
-  src_txt: ཇི་ལྟར་
-67395:
-  alt_diffs:
-  - པོའི་
-  - པོའོ་
-  src_txt: གི་
-67555:
-  alt_diffs:
-  - བུར་
-  - བུར་
-  src_txt: པུར་
-68068:
-  alt_diffs:
-  - སྲེད་
-  - སྲེད་
-  src_txt: སྲེག་
-69064:
-  alt_diffs:
-  - བཙོངས་པ་
-  - བཙོངས་པ་
-  src_txt: བཙོང་བ་
-69147:
-  alt_diffs:
-  - བཙོངས་ཤིང་
-  - བཙོངས་ཤིང་
-  src_txt: བཙོང་ཞིང་
-69963:
-  alt_diffs:
-  - ཏུ།
-  - ཏུ།
-  src_txt: དུ།
-71459:
-  alt_diffs:
-  - གཉིས་ཀ། བདེ་
-  - གཉིས་ཀ །
-  src_txt: གཉི་ག །
-72078:
-  alt_diffs:
-  - དེ།
-  - དེ།
-  src_txt: ཏེ།
-72123:
-  alt_diffs:
-  - ཅེས་
-  - ཅེས་
-  src_txt: ཞེས་
-72209:
-  alt_diffs:
-  - དབང་
-  - དབང་
-  src_txt: སྤང་
-72318:
-  alt_diffs:
-  - འདིར་
-  - འདིར་
-  src_txt: དེར་
-72941:
-  alt_diffs:
-  - རྣམས་ནི་
-  - རྣམས་ནི་
-  src_txt: རྣམ་པར་
-73351:
-  alt_diffs:
-  - ཀོ་
-  - ཀོ་
-  src_txt: གོ་
-73423:
-  alt_diffs:
-  - བཟུང་
-  - བཟུང་
-  src_txt: གཟུང་
-73995:
-  alt_diffs:
-  - འགྲོ་
-  - འགྲོ་
-  src_txt: འགྲེ་
-74943:
-  alt_diffs:
-  - ཞེས།
-  - ཞེས།
-  src_txt: ཅེས།
-75019:
-  alt_diffs:
-  - གདུང་བར་
-  - གདུང་བར་
-  src_txt: གདུངས་པར་
-75747:
-  alt_diffs:
-  - བས།
-  - བས།
-  src_txt: བའི།
-76166:
-  alt_diffs:
-  - ལྟས་
-  - ལྟས་
-  src_txt: ལྟར་
-77080:
-  alt_diffs:
-  - རྒུད་
-  - རྒུད་
-  src_txt: གུད་
-77345:
-  alt_diffs:
-  - པས་
-  - པས་
-  src_txt: པར་
-77392:
-  alt_diffs:
-  - བསྡོ་
-  - བསྡོ་
-  src_txt: བདོ་
-77563:
-  alt_diffs:
-  - གསལ་
-  - གསལ་
-  src_txt: བསལ་
-77903:
-  alt_diffs:
-  - ཞེས་
-  - ཞེས་
-  src_txt: ཅེས་
-77983:
-  alt_diffs:
-  - གྲགས་
-  - གྲགས་
-  src_txt: བསྒྲགས་
-78047:
-  alt_diffs:
-  - བའི
-  - བའི།
-  src_txt: པའི།
-78385:
-  alt_diffs:
-  - བུས།
-  - བུས།
-  src_txt: བུར།
-79346:
-  alt_diffs:
-  - བཅས་
-  - བཅས་
-  src_txt: ཅན་
-79963:
-  alt_diffs:
-  - ད་
-  - ད་
-  src_txt: ང་
-80217:
-  alt_diffs:
-  - སྦྱིན་
-  - སྦྱིན་
-  src_txt: བྱིན་
-80559:
-  alt_diffs:
-  - ལྷུང་
-  - ལྷུང་
-  src_txt: ལྟུང་
-81486:
-  alt_diffs:
-  - པ།
-  - པ།
-  src_txt: བ།
-81552:
-  alt_diffs:
-  - ཀོ་
-  - ཀོ་
-  src_txt: གོ་
-82518:
-  alt_diffs:
-  - གཉིས་ཀ་
-  - གཉིས་ཀ་
-  src_txt: གཉི་ག་
-84726:
-  alt_diffs:
-  - དང་
-  - དང་
-  src_txt: ན་
-84734:
-  alt_diffs:
-  - བ་
-  - བ་
-  src_txt: པ་
-84817:
-  alt_diffs:
-  - རང་
-  - རང་
-  src_txt: རབ་
-87359:
-  alt_diffs:
-  - འདི་
-  - འདི་
-  src_txt: དེ་
-88688:
-  alt_diffs:
-  - རྔུལ་
-  - རྔུལ་
-  src_txt: རྡུལ་
-88857:
-  alt_diffs:
-  - ཏུ།
-  - ཏུ།
-  src_txt: དུ།
-88961:
-  alt_diffs:
-  - རིག་ནས། །
-  - རིག་ནས། །
-  src_txt: ཞིག་རིག །
-89895:
-  alt_diffs:
-  - ཅི་
-  - ཅི་
-  src_txt: ཇི་
-90117:
-  alt_diffs:
-  - གཞི་
-  - གཞི་
-  src_txt: བཞི་
-90165:
-  alt_diffs:
-  - གཉིས་ཀ་
-  - གཉིས་ཀ་
-  src_txt: གཉི་ག་
-91372:
-  alt_diffs:
-  - དུ་
-  - དུ་
-  src_txt: ན་
-92245:
-  alt_diffs:
-  - ཚེ་
-  - ཚོ་
-  src_txt: ནི་
-92463:
-  alt_diffs:
-  - ཅེས་
-  - ཅེས་
-  src_txt: ཞེས་
-92619:
-  alt_diffs:
-  - བར་
-  - བར་
-  src_txt: པར་
-93653:
-  alt_diffs:
-  - ནའང་
-  - ནའང་
-  src_txt: ཡང་
-94792:
-  alt_diffs:
-  - གཉིས་ཀ་
-  - གཉིས་ཀ་
-  src_txt: གཉི་ག་
-95289:
-  alt_diffs:
-  - ཤེ་
-  - ཤེ་
-  src_txt: ཞེ་
-95657:
-  alt_diffs:
-  - ནས་
-  - ནས་
-  src_txt: ནི་
-95879:
-  alt_diffs:
-  - བས་
-  - བས་
-  src_txt: ཡིས་
-96809:
-  alt_diffs:
-  - ཟིན་མིན་
-  - ཟིན་མིན་
-  src_txt: མ་ཟིན་
-97126:
-  alt_diffs:
-  - བས།
-  - བས།
-  src_txt: པས།
-98361:
-  alt_diffs:
-  - བུ་
-  - བུ་
-  src_txt: སུ་
-98744:
-  alt_diffs:
-  - དང་
-  - དང་
-  src_txt: དེ་
-99218:
-  alt_diffs:
-  - བའམ་
-  - བའམ་
-  src_txt: བའང་
-100063:
-  alt_diffs:
-  - དང་
-  - དང་
-  src_txt: ནའི་
-100883:
-  alt_diffs:
-  - བྱུང་བའི།
-  - བྱུང་བའི།
-  src_txt: འཁྲུངས་པའི།
-101977:
-  alt_diffs:
-  - ཡང་
-  - ཡང་
-  src_txt: དག་
-103091:
-  alt_diffs:
-  - སུ་
-  - སུ་
-  src_txt: ཅི་
-103169:
-  alt_diffs:
-  - རྗེས་བརླན་
-  - རྗེས་བརླན་
-  src_txt: རྗེའི་རླན་
-103380:
-  alt_diffs:
-  - ཏུ་
-  - ཏུ་
-  src_txt: དུ་
-103782:
-  alt_diffs:
-  - གཟུགས་
-  - གཟུགས་
-  src_txt: མིག་
-105445:
-  alt_diffs:
-  - བཟུང་
-  - བཟུང་ཤིང་
-  src_txt: གཟུང་ཞིང་
-106526:
-  alt_diffs:
+  - གྱུར། །
+  - གྱུར། །
+  elected: གྱུར། །
+d70244cad9c24020be81fc15b05bd684:
+  span:
+    start: 106526
+    end: 106530
+    errors: {}
+  diffs:
   - ཏོན་
   - ཏོན་
-  src_txt: ཐོན་
-106535:
-  alt_diffs:
+  - ཐོན་
+  - ཐོན་
+  - ཐོན་
+  elected: ཐོན་
+129f76eb9eb04dd6a4457405c19e7ee9:
+  span:
+    start: 106535
+    end: 106541
+    errors: {}
+  diffs:
   - བརྒྱས་
   - བརྒྱས་
-  src_txt: བརྒྱན་
-107665:
-  alt_diffs:
+  - བརྒྱན་
+  - བརྒྱན་
+  - བརྒྱན་
+  elected: བརྒྱན་
+3c605e77f95b48959697538ff4764c4c:
+  span:
+    start: 106854
+    end: 106857
+    errors: {}
+  diffs:
+  - པས་
+  - བའི་
+  - པས་
+  - བས་
+  - བས་
+  elected: བས་
+6c9c78fa0ce74e9784d42fd3a35bc3b3:
+  span:
+    start: 107541
+    end: 107544
+    errors: {}
+  diffs:
+  - པར་
+  - པར་
+  - བར་
+  - བར་
+  - བར་
+  elected: བར་
+4606c296427f4aba8cf418e0a0124d3e:
+  span:
+    start: 107665
+    end: 107668
+    errors: {}
+  diffs:
   - ཏུ་
   - ཏུ་
-  src_txt: དུ་
-107847:
-  alt_diffs:
+  - དུ་
+  - དུ་
+  - དུ་
+  elected: དུ་
+07c11811989b48458489615faaef8c37:
+  span:
+    start: 107847
+    end: 107851
+    errors: {}
+  diffs:
   - པར།
   - པར།
-  src_txt: པའི།
-107876:
-  alt_diffs:
+  - པའི།
+  - པའི།
+  - པའི།
+  elected: པའི།
+fe06cc1b9b1c434da5d3b3a0b964c203:
+  span:
+    start: 107876
+    end: 107880
+    errors: {}
+  diffs:
   - བྱའི་
   - བྱའི་
-  src_txt: པའི་
-108479:
-  alt_diffs:
+  - པའི་
+  - པའི་
+  - པའི་
+  elected: པའི་
+a692fb591a7646aabd8d291e294b9f89:
+  span:
+    start: 108479
+    end: 108485
+    errors: {}
+  diffs:
   - བའི་
   - བའི་
-  src_txt: བ་སྟེ་
+  - བ་སྟེ་
+  - བ་སྟེ་
+  - བ་སྟེ་
+  elected: བ་སྟེ་

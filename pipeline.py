@@ -1,10 +1,11 @@
+from email import charset
 import json
 from pathlib import Path
 
 from openpecha.utils import dump_yaml
 
 from diff_layer_parser import get_diff_layer
-from diff_selector import get_combined_diff_layer, get_alt_diff_paths
+from diff_selector import get_combined_diff_layer, get_alt_diff_paths, reformat_combined_diff_layer
 from get_diff_layer import get_annotated_diffs
 
 def save_editons_with_diffs(text_id, open_edition_text_path, alt_edition_text_paths):
@@ -26,10 +27,25 @@ def save_diff_layers(text_id):
 def save_combined_diff_layer(text_id):
     combined_diffs = {}
     diff_layer_paths = list(Path(f'./data/{text_id}/diff_layers').iterdir())
+    number_of_editions = len(diff_layer_paths)+1
     for diff_layer_path in diff_layer_paths:
         alt_diff_layer_paths = get_alt_diff_paths(diff_layer_path, diff_layer_paths)
-        combined_diffs = get_combined_diff_layer(diff_layer_path, alt_diff_layer_paths, combined_diffs)
+        combined_diffs = get_combined_diff_layer(diff_layer_path, alt_diff_layer_paths, combined_diffs, number_of_editions=number_of_editions)
+    combined_diffs = reformat_combined_diff_layer(combined_diffs)
     dump_yaml(combined_diffs, Path(f'./data/{text_id}/combined_diff.yml'))
+    return combined_diffs
+
+def serialize_diffs(combined_diff_layer, open_edition):
+    new_open_edition = ""
+    char_walker = 0
+    for _, diff in combined_diff_layer.items():
+        diff_start = diff['span']['start']
+        diff_end = diff['span']['end']
+        elected_diff = diff['elected']
+        new_open_edition += f"{open_edition[char_walker:diff_start]}{elected_diff}"
+        char_walker = diff_end
+    new_open_edition += open_edition[char_walker:]
+    return new_open_edition
 
 
 
@@ -37,8 +53,13 @@ def pipeline(text_id):
     alt_edition_text_paths = list(Path(f'./data/{text_id}/editions').iterdir())
     open_edition_text_path = Path(f'./data/{text_id}/OE.txt')
     save_editons_with_diffs(text_id, open_edition_text_path, alt_edition_text_paths)
+    print("INFO: Edition with diffs completed..")
     save_diff_layers(text_id)
-    save_combined_diff_layer(text_id)
+    print("INFO: Diff layers saved..")
+    combined_diff_layers = save_combined_diff_layer(text_id)
+    print("INFO: Combined diff layer generated..")
+    new_open_editions = serialize_diffs(combined_diff_layers, open_edition_text_path.read_text(encoding='utf-8'))
+    Path(f'./data/{text_id}/new_OE.txt').write_text(new_open_editions, encoding='utf-8')
 
     
 if __name__ == "__main__":

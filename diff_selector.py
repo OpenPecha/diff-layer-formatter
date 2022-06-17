@@ -1,7 +1,10 @@
+from collections import OrderedDict
+from operator import getitem
+from pathlib import Path
+
 
 from openpecha.utils import load_yaml, dump_yaml
 
-from pathlib import Path
 
 def find_alt_diff(diff_start, alt_diff_layer):
     for uuid, diff in alt_diff_layer['annotations'].items():
@@ -48,9 +51,31 @@ def get_combined_diff_layer(cur_diff_path, alt_diff_layer_paths, combined_diffs,
                 elected_diff = get_elected_diff(diffs, cur_diff, number_of_editions)
                 combined_diffs[cur_diff['span']['start']] = {
                     'diffs': diffs,
-                    'elected': elected_diff
+                    'elected': elected_diff,
+                    'span': cur_diff['span'],
+                    'id': cur_diff['id']
                 }
     return combined_diffs
+
+def reformat_combined_diff_layer(combined_diffs):
+    reformated_combined_diff_layer = {}
+    for _, diff in combined_diffs.items():
+        reformated_combined_diff_layer[diff['id']] = {
+            'span': diff['span'],
+            'diffs': diff['diffs'],
+            'elected': diff['elected'],
+            'start': diff['span']['start']
+        }
+    sorted_reformated_combined_diff_layer = OrderedDict(sorted(reformated_combined_diff_layer.items(),
+       key = lambda x: getitem(x[1], 'start')))
+    sorted_reformated_combined_diff_layer = dict(sorted_reformated_combined_diff_layer)
+    for id, diff in sorted_reformated_combined_diff_layer.items():
+        sorted_reformated_combined_diff_layer[id] = {
+            'span': diff['span'],
+            'diffs': diff['diffs'],
+            'elected': diff['elected'],
+        }
+    return sorted_reformated_combined_diff_layer
 
 def get_alt_diff_paths(cur_diff_path, diff_paths):
     alt_diff_paths = []
@@ -72,6 +97,7 @@ if __name__ == "__main__":
     for diff_layer_path in diff_layer_paths:
         alt_diff_layer_paths = get_alt_diff_paths(diff_layer_path, diff_layer_paths)
         combined_diffs = get_combined_diff_layer(diff_layer_path, alt_diff_layer_paths, combined_diffs, number_of_editions=5)
+        combined_diffs = reformat_combined_diff_layer(combined_diffs)
     dump_yaml(combined_diffs, Path('./combined_diff.yml'))
 
 

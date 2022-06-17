@@ -142,9 +142,9 @@ def get_annotated_diffs(open_edition, diplomatic_edition):
     normalised_oe = normalise_text(open_edition)
     normalised_de = normalise_text(diplomatic_edition)
     diffs = get_diffs(normalised_oe, normalised_de)
-    dmp = dmp_module.diff_match_patch()
+    # dmp = dmp_module.diff_match_patch()
     diffs = list(diffs)
-    dmp.diff_cleanupSemantic(diffs)
+    # dmp.diff_cleanupSemantic(diffs)
     oe_with_diffs = parse_diffs(diffs)
     oe_with_diffs = transfer_line_break(open_edition, oe_with_diffs)
     return oe_with_diffs
