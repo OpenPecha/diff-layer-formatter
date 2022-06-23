@@ -1,0 +1,94 @@
+id: b40b41e0515643d6b9a3a083ddf2becd
+annotation_type: Diff
+revision: '00001'
+annotations:
+  81a576758fd94e0c957f9fc3f105dd76:
+    id: 81a576758fd94e0c957f9fc3f105dd76
+    span:
+      start: 15548
+      end: 15553
+      errors: {}
+    metadata: {}
+    src_diff: གཞིར་
+    diff_payload: བཞིར་
+  854e41f3179a40709d6461dd425e3144:
+    id: 854e41f3179a40709d6461dd425e3144
+    span:
+      start: 21711
+      end: 21715
+      errors: {}
+    metadata: {}
+    src_diff: དེས་
+    diff_payload: དོས་
+  c033cacc961741d79b30a31b55ddd02d:
+    id: c033cacc961741d79b30a31b55ddd02d
+    span:
+      start: 48744
+      end: 48747
+      errors: {}
+    metadata: {}
+    src_diff: པར།
+    diff_payload: པའི།
+  aa7d3ce66cb349df877815e607088922:
+    id: aa7d3ce66cb349df877815e607088922
+    span:
+      start: 59250
+      end: 59253
+      errors: {}
+    metadata: {}
+    src_diff: ཚར་
+    diff_payload: ཆོར་
+  9611a247e2ee4ad5a6838bb380902978:
+    id: 9611a247e2ee4ad5a6838bb380902978
+    span:
+      start: 68688
+      end: 68693
+      errors: {}
+    metadata: {}
+    src_diff: སྤེལ་
+    diff_payload: སྲེལ་
+  c35adfd40e3047a0984a8558b0d40830:
+    id: c35adfd40e3047a0984a8558b0d40830
+    span:
+      start: 69674
+      end: 69676
+      errors: {}
+    metadata: {}
+    src_diff: ལ་
+    diff_payload: བ་
+  4ab9321fa0b74e6a8b3a6d70f74a2e62:
+    id: 4ab9321fa0b74e6a8b3a6d70f74a2e62
+    span:
+      start: 75454
+      end: 75460
+      errors: {}
+    metadata: {}
+    src_diff: བཤད་ལྟ
+    diff_payload: བསད་སྟ
+  8eb0610bf1d44ed1abb218ece7839052:
+    id: 8eb0610bf1d44ed1abb218ece7839052
+    span:
+      start: 75586
+      end: 75590
+      errors: {}
+    metadata: {}
+    src_diff: དག །
+    diff_payload: དང་། །
+  879390d5f76a49eda68ba37884c34fa4:
+    id: 879390d5f76a49eda68ba37884c34fa4
+    span:
+      start: 90463
+      end: 90467
+      errors: {}
+    metadata: {}
+    src_diff: དག །
+    diff_payload: དང་། །
+  739a54dd11dc42fc9837e3c7e33dc360:
+    id: 739a54dd11dc42fc9837e3c7e33dc360
+    span:
+      start: 100574
+      end: 100578
+      errors: {}
+    metadata: {}
+    src_diff: དག །
+    diff_payload: དང་། །

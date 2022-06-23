@@ -1,9 +1,9 @@
-id: 8e5739817ac24f1b913ae44307ab2854
+id: 6c6a0b5eaaa74ca9915870822c5e5f4b
 annotation_type: Diff
 revision: '00001'
 annotations:
-  7f0acb0581454ca28f0668fde49f1091:
-    id: 7f0acb0581454ca28f0668fde49f1091
+  a7fb309c7c7148fdb8da0b4cf9d7130d:
+    id: a7fb309c7c7148fdb8da0b4cf9d7130d
     span:
       start: 1378
       end: 1382
@@ -11,8 +11,8 @@ annotations:
     metadata: {}
     src_diff: གཏང་
     diff_payload: བཏང་
-  29491e6fba9a4310b1d1f0bd3f5099b5:
-    id: 29491e6fba9a4310b1d1f0bd3f5099b5
+  b5af98995aa44c64bdb6083fc8c31dfc:
+    id: b5af98995aa44c64bdb6083fc8c31dfc
     span:
       start: 1534
       end: 1537
@@ -20,8 +20,8 @@ annotations:
     metadata: {}
     src_diff: པས་
     diff_payload: པའི་
-  a7c9f40052144b4cab358cb57a6fc090:
-    id: a7c9f40052144b4cab358cb57a6fc090
+  b76e7fec491e4c8ca2a030f4681c26eb:
+    id: b76e7fec491e4c8ca2a030f4681c26eb
     span:
       start: 2562
       end: 2565
@@ -29,8 +29,8 @@ annotations:
     metadata: {}
     src_diff: ཆེ་
     diff_payload: ཚེ་
-  de372c4af7d8474b880d0b0711073fa6:
-    id: de372c4af7d8474b880d0b0711073fa6
+  5baff41d23384ad7b7dd190bd9f2da03:
+    id: 5baff41d23384ad7b7dd190bd9f2da03
     span:
       start: 2694
       end: 2700
@@ -38,8 +38,8 @@ annotations:
     metadata: {}
     src_diff: དགྲོལ་
     diff_payload: སྒྲོལ་
-  16bdd864a9a34d4c982b8dc3b1f57554:
-    id: 16bdd864a9a34d4c982b8dc3b1f57554
+  773b316bd67e46ed8e8bf77a9252496b:
+    id: 773b316bd67e46ed8e8bf77a9252496b
     span:
       start: 3772
       end: 3778
@@ -47,8 +47,8 @@ annotations:
     metadata: {}
     src_diff: བརྩོན་
     diff_payload: བཙོན་
-  b6374dfb1c78450d9c72834bcaecd328:
-    id: b6374dfb1c78450d9c72834bcaecd328
+  05b12400e1174ea48738fbe834d8aba4:
+    id: 05b12400e1174ea48738fbe834d8aba4
     span:
       start: 4343
       end: 4349
@@ -56,8 +56,8 @@ annotations:
     metadata: {}
     src_diff: འདྲངས་
     diff_payload: འགྲངས་
-  7651674d31da4c78968952f713cb7ad8:
-    id: 7651674d31da4c78968952f713cb7ad8
+  fc479c64e0ec4bce97398c3b6156b6b9:
+    id: fc479c64e0ec4bce97398c3b6156b6b9
     span:
       start: 4609
       end: 4611
@@ -65,8 +65,8 @@ annotations:
     metadata: {}
     src_diff: ན་
     diff_payload: པ་
-  f782a5b822b147168cd019b96ceba3c3:
-    id: f782a5b822b147168cd019b96ceba3c3
+  94bb2814204b44b6b3b6a7694eb7b2ff:
+    id: 94bb2814204b44b6b3b6a7694eb7b2ff
     span:
       start: 5461
       end: 5466
@@ -74,8 +74,8 @@ annotations:
     metadata: {}
     src_diff: སྤུང་
     diff_payload: སྤུད་
-  0733c287373742a6a792b557b9749660:
-    id: 0733c287373742a6a792b557b9749660
+  2aa29f9229d44f018e749e03c8413523:
+    id: 2aa29f9229d44f018e749e03c8413523
     span:
       start: 5756
       end: 5758
@@ -83,8 +83,8 @@ annotations:
     metadata: {}
     src_diff: ན།
     diff_payload: པ།
-  3f7417226e594aceb6ba556ecd4e5d49:
-    id: 3f7417226e594aceb6ba556ecd4e5d49
+  cc14cf2fb90e4aa79f720097c864ecdb:
+    id: cc14cf2fb90e4aa79f720097c864ecdb
     span:
       start: 5964
       end: 5970
@@ -92,8 +92,8 @@ annotations:
     metadata: {}
     src_diff: བཀྲེན་
     diff_payload: བཀྲིན་
-  f42dc844b1164796b86a9e532f695cfc:
-    id: f42dc844b1164796b86a9e532f695cfc
+  d004672082fd458ca2e79939455550ec:
+    id: d004672082fd458ca2e79939455550ec
     span:
       start: 6885
       end: 6888
@@ -101,8 +101,8 @@ annotations:
     metadata: {}
     src_diff: དུ་
     diff_payload: ཏུ་
-  313ff4850f4a4b9da7bacecbfb437b91:
-    id: 313ff4850f4a4b9da7bacecbfb437b91
+  fd71d016276047568b1a6e70d23f3d59:
+    id: fd71d016276047568b1a6e70d23f3d59
     span:
       start: 7760
       end: 7763
@@ -110,8 +110,8 @@ annotations:
     metadata: {}
     src_diff: ལྡན
     diff_payload: བརྒྱན
-  fe3c65c3be1742ab9b536880fa3931f0:
-    id: fe3c65c3be1742ab9b536880fa3931f0
+  a78de9c9537d44c28ed37922e9c9acef:
+    id: a78de9c9537d44c28ed37922e9c9acef
     span:
       start: 7911
       end: 7915
@@ -119,8 +119,8 @@ annotations:
     metadata: {}
     src_diff: སྔག་
     diff_payload: སྡུག་
-  ba6f2cab6491494884905fd6f3cfd772:
-    id: ba6f2cab6491494884905fd6f3cfd772
+  b5f9a9da2be1423685b6548d86d0cc4d:
+    id: b5f9a9da2be1423685b6548d86d0cc4d
     span:
       start: 7920
       end: 7924
@@ -128,8 +128,8 @@ annotations:
     metadata: {}
     src_diff: ཚིམ་
     diff_payload: སིམ་
-  736381a0cec04f4ea438c2816faf4b8d:
-    id: 736381a0cec04f4ea438c2816faf4b8d
+  5f7289bd9db74c1d939dbc3a8f9f6338:
+    id: 5f7289bd9db74c1d939dbc3a8f9f6338
     span:
       start: 9152
       end: 9156
@@ -137,8 +137,8 @@ annotations:
     metadata: {}
     src_diff: དང་།
     diff_payload: པ།
-  987c7467bb8a455697c9cd9e47296503:
-    id: 987c7467bb8a455697c9cd9e47296503
+  272376c12b78447c9acb73d73c4b7271:
+    id: 272376c12b78447c9acb73d73c4b7271
     span:
       start: 9545
       end: 9548
@@ -146,8 +146,8 @@ annotations:
     metadata: {}
     src_diff: ནས།
     diff_payload: པས།
-  147803a8b82145acbbd3c0bc6d3a23ff:
-    id: 147803a8b82145acbbd3c0bc6d3a23ff
+  e1d429c3db3e4e7faeeff05bf97eb6e1:
+    id: e1d429c3db3e4e7faeeff05bf97eb6e1
     span:
       start: 10594
       end: 10599
@@ -155,8 +155,8 @@ annotations:
     metadata: {}
     src_diff: སོགས།
     diff_payload: སོཊ།
-  c48a8249fa2c478da93afedee24cf277:
-    id: c48a8249fa2c478da93afedee24cf277
+  4146e8b5958149ee90f6b52aa5945263:
+    id: 4146e8b5958149ee90f6b52aa5945263
     span:
       start: 11258
       end: 11261
@@ -164,8 +164,8 @@ annotations:
     metadata: {}
     src_diff: པས།
     diff_payload: ནས།
-  0b4f15001c194d64b99058c2b84fad30:
-    id: 0b4f15001c194d64b99058c2b84fad30
+  df654eeef08f4181b1bb8fd53efbd94d:
+    id: df654eeef08f4181b1bb8fd53efbd94d
     span:
       start: 11521
       end: 11526
@@ -173,8 +173,8 @@ annotations:
     metadata: {}
     src_diff: ཐུགས་
     diff_payload: ཐུཊ་
-  62ccdf0ff87f41699c850a5b2112ae37:
-    id: 62ccdf0ff87f41699c850a5b2112ae37
+  7f16bb77ae1d44bcb0fa4246ab57a64c:
+    id: 7f16bb77ae1d44bcb0fa4246ab57a64c
     span:
       start: 11891
       end: 11898
@@ -182,8 +182,8 @@ annotations:
     metadata: {}
     src_diff: བརྒྱའི།
     diff_payload: བརྒྱ་ཡི།
-  ac70f803b7f044ec82b08963ef57233b:
-    id: ac70f803b7f044ec82b08963ef57233b
+  f9814029378a4f329e9f5ee45dd61b2b:
+    id: f9814029378a4f329e9f5ee45dd61b2b
     span:
       start: 11985
       end: 11987
@@ -191,8 +191,8 @@ annotations:
     metadata: {}
     src_diff: ལ།
     diff_payload: ན།
-  098843b3251a4da4b97b796dd7350f4a:
-    id: 098843b3251a4da4b97b796dd7350f4a
+  24e226f1d3be4c34bc09e4c3ceba209c:
+    id: 24e226f1d3be4c34bc09e4c3ceba209c
     span:
       start: 12174
       end: 12177
@@ -200,8 +200,8 @@ annotations:
     metadata: {}
     src_diff: ངུ་
     diff_payload: དུ་
-  532c4fe54434496eaa9360d1d364e2e7:
-    id: 532c4fe54434496eaa9360d1d364e2e7
+  97482e7309304846823862d088b38a4e:
+    id: 97482e7309304846823862d088b38a4e
     span:
       start: 12427
       end: 12431
@@ -209,8 +209,8 @@ annotations:
     metadata: {}
     src_diff: ཞེས།
     diff_payload: འགྱུར།
-  77512516558d4b799794299921f9d614:
-    id: 77512516558d4b799794299921f9d614
+  ae9a991fe79d46aea0dd005004f79bc7:
+    id: ae9a991fe79d46aea0dd005004f79bc7
     span:
       start: 12655
       end: 12658
@@ -218,8 +218,8 @@ annotations:
     metadata: {}
     src_diff: པུ་
     diff_payload: བུ་
-  6b8aedc3b506463e87397f55836b5122:
-    id: 6b8aedc3b506463e87397f55836b5122
+  775ccd64ef4c4924ba9a50244aab7f8d:
+    id: 775ccd64ef4c4924ba9a50244aab7f8d
     span:
       start: 13737
       end: 13741
@@ -227,8 +227,8 @@ annotations:
     metadata: {}
     src_diff: སྤར་
     diff_payload: སྦར་
-  93cff375f4a74ab98809235d90c17b9f:
-    id: 93cff375f4a74ab98809235d90c17b9f
+  373966be9e794925be0b3da1325be118:
+    id: 373966be9e794925be0b3da1325be118
     span:
       start: 14102
       end: 14105
@@ -236,8 +236,8 @@ annotations:
     metadata: {}
     src_diff: ཕབ་
     diff_payload: བབ་
-  a4ece15cbd5f48a4ab64abdb82fe8378:
-    id: a4ece15cbd5f48a4ab64abdb82fe8378
+  7443f538e9824bf0a4c975a887cf6b2e:
+    id: 7443f538e9824bf0a4c975a887cf6b2e
     span:
       start: 14412
       end: 14414
@@ -245,8 +245,8 @@ annotations:
     metadata: {}
     src_diff: པ་
     diff_payload: བ་
-  a95bce3237534885893623cc0c1d8247:
-    id: a95bce3237534885893623cc0c1d8247
+  d340369129da4ac5aee0dede3a675180:
+    id: d340369129da4ac5aee0dede3a675180
     span:
       start: 15615
       end: 15618
@@ -254,8 +254,8 @@ annotations:
     metadata: {}
     src_diff: དུ།
     diff_payload: ཏུ།
-  3a3bb1eb419c4af89868583d281ffbec:
-    id: 3a3bb1eb419c4af89868583d281ffbec
+  f5efa6d675d249b7a57fa1e2a99811b7:
+    id: f5efa6d675d249b7a57fa1e2a99811b7
     span:
       start: 16073
       end: 16078
@@ -263,8 +263,8 @@ annotations:
     metadata: {}
     src_diff: ལེགས་
     diff_payload: སེམས་
-  7ee3d6d9185541b482224b505c19974f:
-    id: 7ee3d6d9185541b482224b505c19974f
+  b610c48815fa4f788f026f912d3f0545:
+    id: b610c48815fa4f788f026f912d3f0545
     span:
       start: 16331
       end: 16334
@@ -272,8 +272,8 @@ annotations:
     metadata: {}
     src_diff: ཇི་
     diff_payload: ཅི་
-  9db7ceb3e4ee4170acdc6e99022c6fac:
-    id: 9db7ceb3e4ee4170acdc6e99022c6fac
+  bc97c3adf0a04f20ada6a2d93ade580d:
+    id: bc97c3adf0a04f20ada6a2d93ade580d
     span:
       start: 16748
       end: 16751
@@ -281,8 +281,8 @@ annotations:
     metadata: {}
     src_diff: མི་
     diff_payload: མེ་
-  6d76ec954f1a4c588bc3d639a2341912:
-    id: 6d76ec954f1a4c588bc3d639a2341912
+  9c46e99b542541e88221f85193a5c9cd:
+    id: 9c46e99b542541e88221f85193a5c9cd
     span:
       start: 16836
       end: 16841
@@ -290,8 +290,8 @@ annotations:
     metadata: {}
     src_diff: བྱུང་
     diff_payload: ཕྱུང་
-  99ac428f82ef41e099045dc327b87fe6:
-    id: 99ac428f82ef41e099045dc327b87fe6
+  4ef50f1f345f40d99166e9f9fa7b0dd6:
+    id: 4ef50f1f345f40d99166e9f9fa7b0dd6
     span:
       start: 16858
       end: 16864
@@ -299,8 +299,8 @@ annotations:
     metadata: {}
     src_diff: མགྲོན་
     diff_payload: འགྲོན་
-  104fdc5bbb6b4417a21b535221d194f7:
-    id: 104fdc5bbb6b4417a21b535221d194f7
+  280a0516c31940238cf6a215409fb3fb:
+    id: 280a0516c31940238cf6a215409fb3fb
     span:
       start: 16973
       end: 16979
@@ -308,8 +308,8 @@ annotations:
     metadata: {}
     src_diff: མགྲོན་
     diff_payload: འགྲོན་
-  34e2db83b88f4258863ba2fd2f553467:
-    id: 34e2db83b88f4258863ba2fd2f553467
+  494d115dbdda4317915c8f6a94e15a96:
+    id: 494d115dbdda4317915c8f6a94e15a96
     span:
       start: 17089
       end: 17095
@@ -317,8 +317,8 @@ annotations:
     metadata: {}
     src_diff: མགྲོན་
     diff_payload: འགྲོན་
-  e025a3cee835422b9ae3291ca0bc2383:
-    id: e025a3cee835422b9ae3291ca0bc2383
+  0a95216a66e44a549973bf573ddbd2c5:
+    id: 0a95216a66e44a549973bf573ddbd2c5
     span:
       start: 17718
       end: 17720
@@ -326,8 +326,8 @@ annotations:
     metadata: {}
     src_diff: པ་
     diff_payload: བ་
-  1a49274b26794cb09596251c2b9dbb75:
-    id: 1a49274b26794cb09596251c2b9dbb75
+  2f7005db27444fb3adfc4d38677e1780:
+    id: 2f7005db27444fb3adfc4d38677e1780
     span:
       start: 17888
       end: 17897
@@ -335,8 +335,8 @@ annotations:
     metadata: {}
     src_diff: བསླུ་བྱས་
     diff_payload: བསླུསབྱས་
-  349a2a40c20d4ade9af557f2d96ddd8b:
-    id: 349a2a40c20d4ade9af557f2d96ddd8b
+  c7d38544526548ec8302aaff84d2d306:
+    id: c7d38544526548ec8302aaff84d2d306
     span:
       start: 17973
       end: 17978
@@ -344,8 +344,8 @@ annotations:
     metadata: {}
     src_diff: བྱེད་
     diff_payload: མཛད་
-  bdf33e80f3ae475789c6a793fba992d0:
-    id: bdf33e80f3ae475789c6a793fba992d0
+  e7dffcebfaf14284b25b55f40bd90c88:
+    id: e7dffcebfaf14284b25b55f40bd90c88
     span:
       start: 19999
       end: 20003
@@ -353,8 +353,8 @@ annotations:
     metadata: {}
     src_diff: དུས་
     diff_payload: ཡུན་
-  c9a8623c90e74877a8b98f0da3a82cb6:
-    id: c9a8623c90e74877a8b98f0da3a82cb6
+  c2bd68f2b85043438d278eaeaa00fa20:
+    id: c2bd68f2b85043438d278eaeaa00fa20
     span:
       start: 20136
       end: 20138
@@ -362,8 +362,8 @@ annotations:
     metadata: {}
     src_diff: ཏེ
     diff_payload: སྟེ
-  1433249ce25046b8a96e1dd6a8e64bb6:
-    id: 1433249ce25046b8a96e1dd6a8e64bb6
+  abc1273bcdda46b0b1167ee3f354b809:
+    id: abc1273bcdda46b0b1167ee3f354b809
     span:
       start: 20387
       end: 20392
@@ -371,8 +371,8 @@ annotations:
     metadata: {}
     src_diff: མཛངས་
     diff_payload: འཛངས་
-  771b7e411daf45d0a20798650248f31f:
-    id: 771b7e411daf45d0a20798650248f31f
+  7df5c3d255f94696b6ae05ff8315edca:
+    id: 7df5c3d255f94696b6ae05ff8315edca
     span:
       start: 21164
       end: 21169
@@ -380,8 +380,8 @@ annotations:
     metadata: {}
     src_diff: བཅོན་
     diff_payload: བརྩོན་
-  9ef18d72bbce45ab8f57264233f4efa3:
-    id: 9ef18d72bbce45ab8f57264233f4efa3
+  08957f0998924d3da82763d3fd07b869:
+    id: 08957f0998924d3da82763d3fd07b869
     span:
       start: 21711
       end: 21715
@@ -389,8 +389,8 @@ annotations:
     metadata: {}
     src_diff: དེས་
     diff_payload: ངེས་
-  91c5989b66ef4a4a8d5b49632ac428b2:
-    id: 91c5989b66ef4a4a8d5b49632ac428b2
+  b86dda3addba4a03bff1f01eccef445b:
+    id: b86dda3addba4a03bff1f01eccef445b
     span:
       start: 23989
       end: 23991
@@ -398,8 +398,8 @@ annotations:
     metadata: {}
     src_diff: བ་
     diff_payload: པ་
-  e320a7a60f144d31b4707c82402327b8:
-    id: e320a7a60f144d31b4707c82402327b8
+  28c8722ef9cf47c59cc87fd3847dc89b:
+    id: 28c8722ef9cf47c59cc87fd3847dc89b
     span:
       start: 24159
       end: 24166
@@ -407,8 +407,8 @@ annotations:
     metadata: {}
     src_diff: ཡིན་པར་
     diff_payload: འབྱུང་བར་
-  89d8096b248c4186b25fc3667de8f4fe:
-    id: 89d8096b248c4186b25fc3667de8f4fe
+  b95e2c919ce440afa284ab96330ef3cc:
+    id: b95e2c919ce440afa284ab96330ef3cc
     span:
       start: 24727
       end: 24730
@@ -416,8 +416,8 @@ annotations:
     metadata: {}
     src_diff: སུ།
     diff_payload: ཏུ།
-  134859950c4046d7aa334455609423e5:
-    id: 134859950c4046d7aa334455609423e5
+  886175d1f777469a8ad025647d8376ca:
+    id: 886175d1f777469a8ad025647d8376ca
     span:
       start: 25022
       end: 25024
@@ -425,8 +425,8 @@ annotations:
     metadata: {}
     src_diff: མང
     diff_payload: ཡང
-  2d7b2ca01b624b90b57a243745b46fb1:
-    id: 2d7b2ca01b624b90b57a243745b46fb1
+  3c4abefee7b24269809dd0b7c8e16486:
+    id: 3c4abefee7b24269809dd0b7c8e16486
     span:
       start: 25190
       end: 25193
@@ -434,8 +434,8 @@ annotations:
     metadata: {}
     src_diff: གཙོ
     diff_payload: དོ
-  f9a00c2716074f19b514c8145658021a:
-    id: f9a00c2716074f19b514c8145658021a
+  c6ec125605ee4c85b3054132ddecfc6e:
+    id: c6ec125605ee4c85b3054132ddecfc6e
     span:
       start: 25194
       end: 25197
@@ -443,8 +443,8 @@ annotations:
     metadata: {}
     src_diff: བོ་
     diff_payload: པོ་
-  51bc32fdb18b4da8bc0e4efc79b0dc95:
-    id: 51bc32fdb18b4da8bc0e4efc79b0dc95
+  d993fb77b7b344df9d67ac7ab4736ed7:
+    id: d993fb77b7b344df9d67ac7ab4736ed7
     span:
       start: 25326
       end: 25331
@@ -452,8 +452,8 @@ annotations:
     metadata: {}
     src_diff: གཟུང་
     diff_payload: བཟུང་
-  79e13428bd544336955aa000178e9852:
-    id: 79e13428bd544336955aa000178e9852
+  5a870aa7def745f0b22da6843c061aea:
+    id: 5a870aa7def745f0b22da6843c061aea
     span:
       start: 25419
       end: 25429
@@ -461,8 +461,8 @@ annotations:
     metadata: {}
     src_diff: གྲངས་དྲོལ་
     diff_payload: དྲངས་ཀྲོལ་
-  0920d42bafa740b9ab6994bd8a2a99b4:
-    id: 0920d42bafa740b9ab6994bd8a2a99b4
+  f3bc9ad840ea47c9bd88e1648d9b9606:
+    id: f3bc9ad840ea47c9bd88e1648d9b9606
     span:
       start: 25624
       end: 25628
@@ -470,8 +470,8 @@ annotations:
     metadata: {}
     src_diff: དག །
     diff_payload: ཡིས། །
-  fa91bdcb79964618949e5f3259fd5d21:
-    id: fa91bdcb79964618949e5f3259fd5d21
+  11b9e4b61ff44782b71126d3e771700b:
+    id: 11b9e4b61ff44782b71126d3e771700b
     span:
       start: 25874
       end: 25878
@@ -479,8 +479,8 @@ annotations:
     metadata: {}
     src_diff: ཀྱང་
     diff_payload: ཡང་
-  d72770bf29a54a2a9e2d3263838415f3:
-    id: d72770bf29a54a2a9e2d3263838415f3
+  a9e79dc5be46457cba751106804fb2be:
+    id: a9e79dc5be46457cba751106804fb2be
     span:
       start: 25949
       end: 25956
@@ -488,8 +488,8 @@ annotations:
     metadata: {}
     src_diff: ཅད་འབད་
     diff_payload: ལ་འབབ་
-  332fae46de4f457f91f9a4dd7f58c41d:
-    id: 332fae46de4f457f91f9a4dd7f58c41d
+  f3584a016dda4f5aa7d0415ac01dbce9:
+    id: f3584a016dda4f5aa7d0415ac01dbce9
     span:
       start: 25956
       end: 25959
@@ -497,8 +497,8 @@ annotations:
     metadata: {}
     src_diff: པས་
     diff_payload: ཀྱང་
-  fc02adb5e07344aeb5135977698ed117:
-    id: fc02adb5e07344aeb5135977698ed117
+  91e1fa6b5b34415a99d58fc7bddc534a:
+    id: 91e1fa6b5b34415a99d58fc7bddc534a
     span:
       start: 26860
       end: 26863
@@ -506,8 +506,8 @@ annotations:
     metadata: {}
     src_diff: དུ་
     diff_payload: ཏུ་
-  4b8abf3ad6a040849e8f84593f997988:
-    id: 4b8abf3ad6a040849e8f84593f997988
+  53a678704ad1466d990253aedb4ce2ef:
+    id: 53a678704ad1466d990253aedb4ce2ef
     span:
       start: 27085
       end: 27089
@@ -515,8 +515,8 @@ annotations:
     metadata: {}
     src_diff: བའི་
     diff_payload: པའི་
-  244723388b024b1fa1e8b75e5ebc3eef:
-    id: 244723388b024b1fa1e8b75e5ebc3eef
+  ffc23e37a57b4e5d8359abd0c1c213ef:
+    id: ffc23e37a57b4e5d8359abd0c1c213ef
     span:
       start: 27847
       end: 27851
@@ -524,8 +524,8 @@ annotations:
     metadata: {}
     src_diff: ཀྱི་
     diff_payload: གྱི་
-  55509391099d44e98d66d5db542fada5:
-    id: 55509391099d44e98d66d5db542fada5
+  905d25daaeb745008ae7097ee82ae1e6:
+    id: 905d25daaeb745008ae7097ee82ae1e6
     span:
       start: 28095
       end: 28098
@@ -533,8 +533,8 @@ annotations:
     metadata: {}
     src_diff: བར།
     diff_payload: བས།
-  426720a3fe444d6b93b135d126015aab:
-    id: 426720a3fe444d6b93b135d126015aab
+  10ccb97abe90457e832fbe7aa508a997:
+    id: 10ccb97abe90457e832fbe7aa508a997
     span:
       start: 28176
       end: 28182
@@ -542,8 +542,8 @@ annotations:
     metadata: {}
     src_diff: བྱ་བར་
     diff_payload: བཞག་པར་
-  b9e93b4aaa504e8a83d182305ff9a4ac:
-    id: b9e93b4aaa504e8a83d182305ff9a4ac
+  a3e54becb0834ea58ae931848e718f22:
+    id: a3e54becb0834ea58ae931848e718f22
     span:
       start: 28249
       end: 28253
@@ -551,8 +551,8 @@ annotations:
     metadata: {}
     src_diff: གཏང་
     diff_payload: གཏད་
-  ff7c05ebbcd244b9801dd80faec1f788:
-    id: ff7c05ebbcd244b9801dd80faec1f788
+  a1bc419b983c4536816db654bba8a551:
+    id: a1bc419b983c4536816db654bba8a551
     span:
       start: 28336
       end: 28339
@@ -560,8 +560,8 @@ annotations:
     metadata: {}
     src_diff: གར་
     diff_payload: ཀར་
-  2514ef315d9a4705be93a3ecc82a8ea5:
-    id: 2514ef315d9a4705be93a3ecc82a8ea5
+  3c9f0e5086c048869dea292d561f4f64:
+    id: 3c9f0e5086c048869dea292d561f4f64
     span:
       start: 28843
       end: 28848
@@ -569,8 +569,8 @@ annotations:
     metadata: {}
     src_diff: དགོད་
     diff_payload: རྒོད་
-  7657019edd9a4c8ab106150009d42a91:
-    id: 7657019edd9a4c8ab106150009d42a91
+  b3f9cf9c5a1249d48f545ffcb69be803:
+    id: b3f9cf9c5a1249d48f545ffcb69be803
     span:
       start: 29829
       end: 29831
@@ -578,8 +578,8 @@ annotations:
     metadata: {}
     src_diff: པ་
     diff_payload: བ་
-  c724fabaf2fc48fd895204b0c9aa7bfc:
-    id: c724fabaf2fc48fd895204b0c9aa7bfc
+  2454809d7e6c4d0e927ef35df9c61372:
+    id: 2454809d7e6c4d0e927ef35df9c61372
     span:
       start: 32195
       end: 32198
@@ -587,8 +587,8 @@ annotations:
     metadata: {}
     src_diff: དུ་
     diff_payload: ཏུ་
-  87c2cdc90f5f4402a733db38966de188:
-    id: 87c2cdc90f5f4402a733db38966de188
+  37b950a35cad471aaab6159e49497072:
+    id: 37b950a35cad471aaab6159e49497072
     span:
       start: 32959
       end: 32964
@@ -596,8 +596,8 @@ annotations:
     metadata: {}
     src_diff: ལྷུང་
     diff_payload: ལྟུང་
-  07f013c5aee64e708be771ff6d988d36:
-    id: 07f013c5aee64e708be771ff6d988d36
+  9b6b278d2a474a5caa0f6afbed265e00:
+    id: 9b6b278d2a474a5caa0f6afbed265e00
     span:
       start: 34484
       end: 34487
@@ -605,8 +605,8 @@ annotations:
     metadata: {}
     src_diff: པས།
     diff_payload: ནས།
-  f7752c9b07a247a492e025e987f26ef9:
-    id: f7752c9b07a247a492e025e987f26ef9
+  a6c8b7772ff546ea9884ee04a368a64e:
+    id: a6c8b7772ff546ea9884ee04a368a64e
     span:
       start: 35186
       end: 35190
@@ -614,8 +614,8 @@ annotations:
     metadata: {}
     src_diff: ཐོག་
     diff_payload: ཐོབ་
-  8608c3b9301242f49dc402917b369ae3:
-    id: 8608c3b9301242f49dc402917b369ae3
+  b6cc6814108447c4af13ff1f7dbc779f:
+    id: b6cc6814108447c4af13ff1f7dbc779f
     span:
       start: 35919
       end: 35924
@@ -623,8 +623,8 @@ annotations:
     metadata: {}
     src_diff: སྤྱང་
     diff_payload: སྦྱང་
-  cf1d8c3187c0494293e43fa3c4e4ec3c:
-    id: cf1d8c3187c0494293e43fa3c4e4ec3c
+  8db47b70357a43a4915ab0972ee57ea7:
+    id: 8db47b70357a43a4915ab0972ee57ea7
     span:
       start: 35938
       end: 35940
@@ -632,8 +632,8 @@ annotations:
     metadata: {}
     src_diff: ཡང
     diff_payload: ཀྱང
-  9d7f81d1035048849a303c54a5d19e27:
-    id: 9d7f81d1035048849a303c54a5d19e27
+  c8d5c07ea7b044bf95dee125fb6141e8:
+    id: c8d5c07ea7b044bf95dee125fb6141e8
     span:
       start: 36070
       end: 36073
@@ -641,8 +641,8 @@ annotations:
     metadata: {}
     src_diff: དུ་
     diff_payload: གྱིས་
-  5a97cac72c9d4832821b2abfa8292dcd:
-    id: 5a97cac72c9d4832821b2abfa8292dcd
+  e001ba8b9b7144bba2191a97ca8fcd07:
+    id: e001ba8b9b7144bba2191a97ca8fcd07
     span:
       start: 36176
       end: 36179
@@ -650,8 +650,8 @@ annotations:
     metadata: {}
     src_diff: མི་
     diff_payload: མོ་
-  cbf23a052a204a1b9c971cb1af9a6714:
-    id: cbf23a052a204a1b9c971cb1af9a6714
+  ba7e7ed32d5b49019172072e651028dc:
+    id: ba7e7ed32d5b49019172072e651028dc
     span:
       start: 36398
       end: 36403
@@ -659,8 +659,8 @@ annotations:
     metadata: {}
     src_diff: བདེར་
     diff_payload: འདིར་
-  8ef1dfa1dfea40fab99c4303b583feb7:
-    id: 8ef1dfa1dfea40fab99c4303b583feb7
+  990e4b7d3da142cca1b2b7713ad00a9c:
+    id: 990e4b7d3da142cca1b2b7713ad00a9c
     span:
       start: 37447
       end: 37453
@@ -668,8 +668,8 @@ annotations:
     metadata: {}
     src_diff: སྦྲུལ་
     diff_payload: སྤྲུལ་
-  6be70eaef5de4435ba339e11868be7f5:
-    id: 6be70eaef5de4435ba339e11868be7f5
+  ffe762bec49c452f8a6799400645ab6e:
+    id: ffe762bec49c452f8a6799400645ab6e
     span:
       start: 38804
       end: 38808
@@ -677,8 +677,8 @@ annotations:
     metadata: {}
     src_diff: ཅེས།
     diff_payload: ཅིས།
-  ce935df5512c46b0a18aa2416cdf2bc2:
-    id: ce935df5512c46b0a18aa2416cdf2bc2
+  87345124a8dd4ef989d934a19bf18321:
+    id: 87345124a8dd4ef989d934a19bf18321
     span:
       start: 39351
       end: 39357
@@ -686,8 +686,8 @@ annotations:
     metadata: {}
     src_diff: སྦྲུལ་
     diff_payload: སྤྲུལ་
-  b197c0ab96e14a9bb4571570f1e32bfb:
-    id: b197c0ab96e14a9bb4571570f1e32bfb
+  d8b7b736101f4e6f920722efbb35744a:
+    id: d8b7b736101f4e6f920722efbb35744a
     span:
       start: 41057
       end: 41059
@@ -695,8 +695,8 @@ annotations:
     metadata: {}
     src_diff: པ།
     diff_payload: བ།
-  fe190ecdb002498cbb2b415431cab7f0:
-    id: fe190ecdb002498cbb2b415431cab7f0
+  bf8b7e5b327a465eaea82805a5247f55:
+    id: bf8b7e5b327a465eaea82805a5247f55
     span:
       start: 43561
       end: 43564
@@ -704,8 +704,8 @@ annotations:
     metadata: {}
     src_diff: ཅི་
     diff_payload: ཅེ་
-  11237b833b4f46fd8bc74fb694b59e48:
-    id: 11237b833b4f46fd8bc74fb694b59e48
+  9479af4f4bf74de4a27c23d84b0a0814:
+    id: 9479af4f4bf74de4a27c23d84b0a0814
     span:
       start: 43768
       end: 43772
@@ -713,8 +713,8 @@ annotations:
     metadata: {}
     src_diff: ཡིན།
     diff_payload: རིགས།
-  23500e01e8434683af8a366c5618549c:
-    id: 23500e01e8434683af8a366c5618549c
+  dd965a47db5742fa8a0af9dc00f536b3:
+    id: dd965a47db5742fa8a0af9dc00f536b3
     span:
       start: 44163
       end: 44165
@@ -722,8 +722,8 @@ annotations:
     metadata: {}
     src_diff: ཡང
     diff_payload: ཀྱང
-  e40aca66da9d4ca8b811e6631964a6d6:
-    id: e40aca66da9d4ca8b811e6631964a6d6
+  25fbc7c91fe84829b3eaf77a981d0bfa:
+    id: 25fbc7c91fe84829b3eaf77a981d0bfa
     span:
       start: 45359
       end: 45363
@@ -731,8 +731,8 @@ annotations:
     metadata: {}
     src_diff: རུང་
     diff_payload: དུབ་
-  f700c966647d45ee8e29cb32f3ff6321:
-    id: f700c966647d45ee8e29cb32f3ff6321
+  2cb59a4b57114a5d83124cd1a4f0a1a3:
+    id: 2cb59a4b57114a5d83124cd1a4f0a1a3
     span:
       start: 46178
       end: 46181
@@ -740,8 +740,8 @@ annotations:
     metadata: {}
     src_diff: ཆང་
     diff_payload: ཆད་
-  7ba971ef5ec646c69fe3b22d564948d0:
-    id: 7ba971ef5ec646c69fe3b22d564948d0
+  dea265763632495cb79c48c07b992c5f:
+    id: dea265763632495cb79c48c07b992c5f
     span:
       start: 46220
       end: 46224
@@ -749,8 +749,8 @@ annotations:
     metadata: {}
     src_diff: ཤོར་
     diff_payload: གཏོང་
-  95d829ed6bb747acae587f0051aebe53:
-    id: 95d829ed6bb747acae587f0051aebe53
+  f9b48b7db14740d79fa677f54b72f43b:
+    id: f9b48b7db14740d79fa677f54b72f43b
     span:
       start: 46224
       end: 46231
@@ -758,8 +758,8 @@ annotations:
     metadata: {}
     src_diff: ཅིང་། །
     diff_payload: ཞིང༌།
-  07e74b744bd544899324b3f10f333c50:
-    id: 07e74b744bd544899324b3f10f333c50
+  a90488bbdcfb4ae78ae37ef9cc9fdab9:
+    id: a90488bbdcfb4ae78ae37ef9cc9fdab9
     span:
       start: 46314
       end: 46322
@@ -767,8 +767,8 @@ annotations:
     metadata: {}
     src_diff: བྱེ་མའི་
     diff_payload: བྱི༌མའི་
-  7bdcd4fec3d344729ccef4df71341f4e:
-    id: 7bdcd4fec3d344729ccef4df71341f4e
+  d4e8b7c3c48a423096813f2e4ecab5bd:
+    id: d4e8b7c3c48a423096813f2e4ecab5bd
     span:
       start: 46325
       end: 46328
@@ -776,8 +776,8 @@ annotations:
     metadata: {}
     src_diff: བུ་
     diff_payload: པུ་
-  75614f74121c4d89b7d206d74ebcb54c:
-    id: 75614f74121c4d89b7d206d74ebcb54c
+  12146818551845cb8faf28b6242510d1:
+    id: 12146818551845cb8faf28b6242510d1
     span:
       start: 46702
       end: 46709
@@ -785,8 +785,8 @@ annotations:
     metadata: {}
     src_diff: ཇི་ལྟར་
     diff_payload: ཅིའི་ཕྱིར་
-  23146efe16714482bd68f94cb9464f07:
-    id: 23146efe16714482bd68f94cb9464f07
+  15d80c5e4a2f457fb2c9a0111a36e7a2:
+    id: 15d80c5e4a2f457fb2c9a0111a36e7a2
     span:
       start: 50145
       end: 50153
@@ -794,8 +794,8 @@ annotations:
     metadata: {}
     src_diff: བཟུང་ནས་
     diff_payload: བརྟུལ་
-  281e560a67094ffbb31a684b7053dedc:
-    id: 281e560a67094ffbb31a684b7053dedc
+  7cba02dd144743c6ac6b2f0ae86bed97:
+    id: 7cba02dd144743c6ac6b2f0ae86bed97
     span:
       start: 50228
       end: 50233
@@ -803,8 +803,8 @@ annotations:
     metadata: {}
     src_diff: བསྡོ་
     diff_payload: བསྔོ་
-  124c30191366430bba4fc1af0e4b1856:
-    id: 124c30191366430bba4fc1af0e4b1856
+  1228feb101614376b329fef9e2989201:
+    id: 1228feb101614376b329fef9e2989201
     span:
       start: 51255
       end: 51260
@@ -812,8 +812,8 @@ annotations:
     metadata: {}
     src_diff: འཁོར་
     diff_payload: འཁོང་
-  f098f5ad19d54cc5967a88c9814574bc:
-    id: f098f5ad19d54cc5967a88c9814574bc
+  85fd2564f1f54482b347e1887ea4d593:
+    id: 85fd2564f1f54482b347e1887ea4d593
     span:
       start: 51826
       end: 51829
@@ -821,8 +821,8 @@ annotations:
     metadata: {}
     src_diff: པས་
     diff_payload: བས་
-  d636be6de48748919d7b70f152c6548a:
-    id: d636be6de48748919d7b70f152c6548a
+  f8777ac33f044034b96726613aa28faa:
+    id: f8777ac33f044034b96726613aa28faa
     span:
       start: 52503
       end: 52505
@@ -830,8 +830,8 @@ annotations:
     metadata: {}
     src_diff: བ་
     diff_payload: པ་
-  8a5caa45cd624a438cb4b5acf71a4753:
-    id: 8a5caa45cd624a438cb4b5acf71a4753
+  cae9e9bd77a64548b4a4ff02cd1d77bc:
+    id: cae9e9bd77a64548b4a4ff02cd1d77bc
     span:
       start: 52885
       end: 52890
@@ -839,8 +839,8 @@ annotations:
     metadata: {}
     src_diff: བཟུང་
     diff_payload: བསྲུང་
-  7f544fbd7f18424a9d7a8550760a5153:
-    id: 7f544fbd7f18424a9d7a8550760a5153
+  f749e71cbbf34f6e8a038190ea41f3a6:
+    id: f749e71cbbf34f6e8a038190ea41f3a6
     span:
       start: 53564
       end: 53569
@@ -848,8 +848,8 @@ annotations:
     metadata: {}
     src_diff: གནོད་
     diff_payload: གནོན་
-  8dcdb0ce5f1b4ef6a7b0d1271411cca5:
-    id: 8dcdb0ce5f1b4ef6a7b0d1271411cca5
+  2e959ed2763d47ad9d3e25ecd125deba:
+    id: 2e959ed2763d47ad9d3e25ecd125deba
     span:
       start: 53688
       end: 53691
@@ -857,8 +857,8 @@ annotations:
     metadata: {}
     src_diff: ཤེ་
     diff_payload: ཤི་
-  0d479cdc79ed41c09a22b27c26566027:
-    id: 0d479cdc79ed41c09a22b27c26566027
+  116b87de46ba42b786c41178ae8632b2:
+    id: 116b87de46ba42b786c41178ae8632b2
     span:
       start: 53929
       end: 53937
@@ -866,8 +866,8 @@ annotations:
     metadata: {}
     src_diff: རྔུ་ཁོང་
     diff_payload: རྔུ༌༈ཁོང་
-  6ff1c130b35642aba16a6bf6b2da3f42:
-    id: 6ff1c130b35642aba16a6bf6b2da3f42
+  901e6e817974420ba5b4029faf5cc17b:
+    id: 901e6e817974420ba5b4029faf5cc17b
     span:
       start: 54371
       end: 54373
@@ -875,8 +875,8 @@ annotations:
     metadata: {}
     src_diff: པ།
     diff_payload: ནས།
-  272299f0f62242d5b4979c56d5f2fbb7:
-    id: 272299f0f62242d5b4979c56d5f2fbb7
+  ee5e3243dd4043d2b511d75be991eea2:
+    id: ee5e3243dd4043d2b511d75be991eea2
     span:
       start: 56658
       end: 56662
@@ -884,8 +884,8 @@ annotations:
     metadata: {}
     src_diff: པའི་
     diff_payload: བའི་
-  e3a17b16b0954e83a516285dc1e4a72f:
-    id: e3a17b16b0954e83a516285dc1e4a72f
+  55c28fa974b24cbb933d7cd0d879c97f:
+    id: 55c28fa974b24cbb933d7cd0d879c97f
     span:
       start: 57184
       end: 57187
@@ -893,8 +893,8 @@ annotations:
     metadata: {}
     src_diff: ཏེ།
     diff_payload: སྟེ།
-  430d24b07d08456cb26223842802a8c2:
-    id: 430d24b07d08456cb26223842802a8c2
+  7403e182aeb84ff5b2e7d38ebde7247a:
+    id: 7403e182aeb84ff5b2e7d38ebde7247a
     span:
       start: 57227
       end: 57231
@@ -902,8 +902,8 @@ annotations:
     metadata: {}
     src_diff: པུས་
     diff_payload: བུས་
-  45bbb0e6a8a84f0f8b97604cb62e6402:
-    id: 45bbb0e6a8a84f0f8b97604cb62e6402
+  011bb92bac284072b0f15ca03c1d6ace:
+    id: 011bb92bac284072b0f15ca03c1d6ace
     span:
       start: 57520
       end: 57523
@@ -911,8 +911,8 @@ annotations:
     metadata: {}
     src_diff: ཁྭ་
     diff_payload: ཁཱ་
-  515d8946754c4ac9bde0d1c54e3bd014:
-    id: 515d8946754c4ac9bde0d1c54e3bd014
+  e2235dbdc55f46f4917f8681d9828065:
+    id: e2235dbdc55f46f4917f8681d9828065
     span:
       start: 57586
       end: 57591
@@ -920,8 +920,8 @@ annotations:
     metadata: {}
     src_diff: ངུའང་
     diff_payload: དུའང་
-  37c251ef1e304b0c8b54985962f69699:
-    id: 37c251ef1e304b0c8b54985962f69699
+  633bf43d46e34685ad23db8146550e06:
+    id: 633bf43d46e34685ad23db8146550e06
     span:
       start: 59757
       end: 59759
@@ -929,8 +929,8 @@ annotations:
     metadata: {}
     src_diff: བ།
     diff_payload: པ།
-  64415de169f448829a82ba4b4779f416:
-    id: 64415de169f448829a82ba4b4779f416
+  0c29183b58d64da0927b9eebe92c8e91:
+    id: 0c29183b58d64da0927b9eebe92c8e91
     span:
       start: 59782
       end: 59784
@@ -938,8 +938,8 @@ annotations:
     metadata: {}
     src_diff: པ་
     diff_payload: གྱུར་
-  49cccdd79b6a4c6b9b576c2c2141d995:
-    id: 49cccdd79b6a4c6b9b576c2c2141d995
+  732b4e5b06a94112814b67cb5fb452b2:
+    id: 732b4e5b06a94112814b67cb5fb452b2
     span:
       start: 59955
       end: 59961
@@ -947,8 +947,8 @@ annotations:
     metadata: {}
     src_diff: སྦྲུལ་
     diff_payload: སྤྲུལ་
-  a6e86145ee50474288744fa6de7a5928:
-    id: a6e86145ee50474288744fa6de7a5928
+  47b1b2f0f8fa4cc887e78b8476cd58c9:
+    id: 47b1b2f0f8fa4cc887e78b8476cd58c9
     span:
       start: 61843
       end: 61846
@@ -956,8 +956,8 @@ annotations:
     metadata: {}
     src_diff: དག་
     diff_payload: ངག་
-  9d867c855a594f1581abbb21c2f52823:
-    id: 9d867c855a594f1581abbb21c2f52823
+  f838f871335b49cc8922febaec6e03a2:
+    id: f838f871335b49cc8922febaec6e03a2
     span:
       start: 62159
       end: 62162
@@ -965,8 +965,8 @@ annotations:
     metadata: {}
     src_diff: བར་
     diff_payload: པར་
-  3b2053cf6b5d404baf305c03d096b548:
-    id: 3b2053cf6b5d404baf305c03d096b548
+  9098515a46db4eba888b553a91bbc830:
+    id: 9098515a46db4eba888b553a91bbc830
     span:
       start: 62318
       end: 62321
@@ -974,8 +974,8 @@ annotations:
     metadata: {}
     src_diff: མལ་
     diff_payload: མའི་
-  ba8835edc19a44f6b6613bc4b62f0046:
-    id: ba8835edc19a44f6b6613bc4b62f0046
+  6ebb22fa38034e588499ca5ec33a7ac0:
+    id: 6ebb22fa38034e588499ca5ec33a7ac0
     span:
       start: 64185
       end: 64188
@@ -983,8 +983,8 @@ annotations:
     metadata: {}
     src_diff: པུ་
     diff_payload: བུ་
-  adf2109fbb1e4a0ab29ea51c6daac022:
-    id: adf2109fbb1e4a0ab29ea51c6daac022
+  9f8d297a73a44695b9ea1347cdab5c19:
+    id: 9f8d297a73a44695b9ea1347cdab5c19
     span:
       start: 65126
       end: 65130
@@ -992,8 +992,8 @@ annotations:
     metadata: {}
     src_diff: ཡིས་
     diff_payload: ལ་
-  bf64dfdd057e400eaff4e59bcd68508c:
-    id: bf64dfdd057e400eaff4e59bcd68508c
+  04dd32a0261d4e21b4b326df8db48aed:
+    id: 04dd32a0261d4e21b4b326df8db48aed
     span:
       start: 65213
       end: 65219
@@ -1001,8 +1001,8 @@ annotations:
     metadata: {}
     src_diff: འཛོམས་
     diff_payload: འཛེམས་
-  a20d74d47d3d41fcbba23c630b2b0e81:
-    id: a20d74d47d3d41fcbba23c630b2b0e81
+  2a5319b82ec7497fbe36248d420858de:
+    id: 2a5319b82ec7497fbe36248d420858de
     span:
       start: 65867
       end: 65871
@@ -1010,8 +1010,8 @@ annotations:
     metadata: {}
     src_diff: གི །
     diff_payload: གི༌།
-  dd4ddf91633c4f8995cd07c9d15add53:
-    id: dd4ddf91633c4f8995cd07c9d15add53
+  b25569a12ace40158e3ebd162dfc5eee:
+    id: b25569a12ace40158e3ebd162dfc5eee
     span:
       start: 66117
       end: 66125
@@ -1019,8 +1019,8 @@ annotations:
     metadata: {}
     src_diff: འཁྱུད། །
     diff_payload: འཁྱུད༌།
-  a0d79676012f4af480d5dab8914f678a:
-    id: a0d79676012f4af480d5dab8914f678a
+  23f0e112cadd4e3087523cd08674b951:
+    id: 23f0e112cadd4e3087523cd08674b951
     span:
       start: 66151
       end: 66155
@@ -1028,8 +1028,8 @@ annotations:
     metadata: {}
     src_diff: བཤང་
     diff_payload: བཤད་
-  2b7b542dc19047858385181a244c3790:
-    id: 2b7b542dc19047858385181a244c3790
+  31635fe6febf4a0db6f8ddfff871e588:
+    id: 31635fe6febf4a0db6f8ddfff871e588
     span:
       start: 66183
       end: 66187
@@ -1037,8 +1037,8 @@ annotations:
     metadata: {}
     src_diff: བཤང་
     diff_payload: བཤད་
-  b696098b63d44c868d0db4c0edb878bd:
-    id: b696098b63d44c868d0db4c0edb878bd
+  4916554c0a5944ca91254d2f8194962d:
+    id: 4916554c0a5944ca91254d2f8194962d
     span:
       start: 66253
       end: 66257
@@ -1046,8 +1046,8 @@ annotations:
     metadata: {}
     src_diff: སྔས་
     diff_payload: སྡས་
-  75556c2e8780416abc15b79989745998:
-    id: 75556c2e8780416abc15b79989745998
+  c74a4eb883c84af2a1c592722c191d82:
+    id: c74a4eb883c84af2a1c592722c191d82
     span:
       start: 66533
       end: 66539
@@ -1055,8 +1055,8 @@ annotations:
     metadata: {}
     src_diff: པང་དུ་
     diff_payload: པར༌༈དུ་
-  e1efb32078d646889fc82aede8ceae6e:
-    id: e1efb32078d646889fc82aede8ceae6e
+  5062c000bfd8432998151a2274e55415:
+    id: 5062c000bfd8432998151a2274e55415
     span:
       start: 67358
       end: 67363
@@ -1064,8 +1064,8 @@ annotations:
     metadata: {}
     src_diff: ངུའང་
     diff_payload: དུའང་
-  8676344f076841b2a3a2a915bec0dba8:
-    id: 8676344f076841b2a3a2a915bec0dba8
+  24655ee3e334460db9f6a7d8b83780cc:
+    id: 24655ee3e334460db9f6a7d8b83780cc
     span:
       start: 69981
       end: 69986
@@ -1073,8 +1073,8 @@ annotations:
     metadata: {}
     src_diff: བྱུང་
     diff_payload: ཆུང་
-  1fcb999c567d4529a048b879a234c097:
-    id: 1fcb999c567d4529a048b879a234c097
+  6e11bc5aa9184dc48d405c05418827a6:
+    id: 6e11bc5aa9184dc48d405c05418827a6
     span:
       start: 71463
       end: 71466
@@ -1082,8 +1082,8 @@ annotations:
     metadata: {}
     src_diff: ག །
     diff_payload: ག༌།
-  c14b5fb9b0314c258930848a9d2358d7:
-    id: c14b5fb9b0314c258930848a9d2358d7
+  2fd7a7a63b034d38bc14594fa61d569b:
+    id: 2fd7a7a63b034d38bc14594fa61d569b
     span:
       start: 71990
       end: 71996
@@ -1091,8 +1091,8 @@ annotations:
     metadata: {}
     src_diff: བསྲུང་
     diff_payload: བསླུང་
-  08cd808f514f41ee94b9f880232e956a:
-    id: 08cd808f514f41ee94b9f880232e956a
+  ef5408ff59e8453294a6a5a9d7786d51:
+    id: ef5408ff59e8453294a6a5a9d7786d51
     span:
       start: 73172
       end: 73175
@@ -1100,8 +1100,8 @@ annotations:
     metadata: {}
     src_diff: ངུ་
     diff_payload: དུ་
-  23ad7695d8be46ba83b4ecfeacfa5981:
-    id: 23ad7695d8be46ba83b4ecfeacfa5981
+  fa5921c5cc374fec9e1377579bb5e145:
+    id: fa5921c5cc374fec9e1377579bb5e145
     span:
       start: 73952
       end: 73955
@@ -1109,8 +1109,8 @@ annotations:
     metadata: {}
     src_diff: ངུ་
     diff_payload: དུ་
-  e582c45ab882429fbfe0c6d644f1f9c1:
-    id: e582c45ab882429fbfe0c6d644f1f9c1
+  3f010d6230de430fbd7c0597cbed8be5:
+    id: 3f010d6230de430fbd7c0597cbed8be5
     span:
       start: 74505
       end: 74510
@@ -1118,8 +1118,8 @@ annotations:
     metadata: {}
     src_diff: བྱེད།
     diff_payload: ཕྱེད།
-  1a88c2d7ba89442daf1333573b8341f7:
-    id: 1a88c2d7ba89442daf1333573b8341f7
+  197bc70523e94a8f886d1898f7ea3b7c:
+    id: 197bc70523e94a8f886d1898f7ea3b7c
     span:
       start: 75692
       end: 75696
@@ -1127,8 +1127,8 @@ annotations:
     metadata: {}
     src_diff: གི །
     diff_payload: གི༌།
-  07433bb3d1214553a0dcfd1755542ca6:
-    id: 07433bb3d1214553a0dcfd1755542ca6
+  dadeb3dd3ef64d8b8ec204fda3702305:
+    id: dadeb3dd3ef64d8b8ec204fda3702305
     span:
       start: 75925
       end: 75930
@@ -1136,8 +1136,8 @@ annotations:
     metadata: {}
     src_diff: དག་ན་
     diff_payload: དག༈ན་
-  28a5ab3750b947b8879f36dd70c0e3d6:
-    id: 28a5ab3750b947b8879f36dd70c0e3d6
+  fee8644f3ea84197883154cc156f87ed:
+    id: fee8644f3ea84197883154cc156f87ed
     span:
       start: 79051
       end: 79056
@@ -1145,8 +1145,8 @@ annotations:
     metadata: {}
     src_diff: གང་ཚེ
     diff_payload: རེ
-  215efdcf462845c2933ebe65bda9de52:
-    id: 215efdcf462845c2933ebe65bda9de52
+  7d705eda81e4434284c128fcdda5e222:
+    id: 7d705eda81e4434284c128fcdda5e222
     span:
       start: 79633
       end: 79637
@@ -1154,8 +1154,8 @@ annotations:
     metadata: {}
     src_diff: པའི་
     diff_payload: བའི་
-  abf9254dc2214030ab34883f0cb0026b:
-    id: abf9254dc2214030ab34883f0cb0026b
+  f3a0c952d7184460921db399fd3366bf:
+    id: f3a0c952d7184460921db399fd3366bf
     span:
       start: 81684
       end: 81689
@@ -1163,8 +1163,8 @@ annotations:
     metadata: {}
     src_diff: བྱིས་
     diff_payload: ཕྱིས་
-  ab5778b2b3dd4f15a55187834d998b4b:
-    id: ab5778b2b3dd4f15a55187834d998b4b
+  f5dab126e0a14df2acd659d326002a8f:
+    id: f5dab126e0a14df2acd659d326002a8f
     span:
       start: 83808
       end: 83816
@@ -1172,8 +1172,8 @@ annotations:
     metadata: {}
     src_diff: འབྱུང་ངོ
     diff_payload: འབྱུངརོ
-  ea719d0fa1564c08b5fa42a64b993a8e:
-    id: ea719d0fa1564c08b5fa42a64b993a8e
+  5fc9c74e987a4b53a5f2fa471cdbeceb:
+    id: 5fc9c74e987a4b53a5f2fa471cdbeceb
     span:
       start: 85756
       end: 85760
@@ -1181,8 +1181,8 @@ annotations:
     metadata: {}
     src_diff: ཅེས་
     diff_payload: ཅིས་
-  f15115ab8a5e468f892ae4a7b048af86:
-    id: f15115ab8a5e468f892ae4a7b048af86
+  ff4e804d49494912ab72dfa66e83895d:
+    id: ff4e804d49494912ab72dfa66e83895d
     span:
       start: 86532
       end: 86541
@@ -1190,8 +1190,8 @@ annotations:
     metadata: {}
     src_diff: དེར་འབྲས་
     diff_payload: དེས༌འབྲས་
-  403b3c0abca44d61878de7a967a6879c:
-    id: 403b3c0abca44d61878de7a967a6879c
+  ac945c277dce4a9f916c942b292edbeb:
+    id: ac945c277dce4a9f916c942b292edbeb
     span:
       start: 87729
       end: 87733
@@ -1199,8 +1199,8 @@ annotations:
     metadata: {}
     src_diff: གི །
     diff_payload: གི༌།
-  b29d7199d42947f79d58f9559f8d9aac:
-    id: b29d7199d42947f79d58f9559f8d9aac
+  ac113bccfe5b40b6a17dc3947f63c637:
+    id: ac113bccfe5b40b6a17dc3947f63c637
     span:
       start: 88216
       end: 88221
@@ -1208,8 +1208,8 @@ annotations:
     metadata: {}
     src_diff: བྱ། །
     diff_payload: བྱ་ །
-  680112a1570b4e918a31a885689bbda9:
-    id: 680112a1570b4e918a31a885689bbda9
+  c2ff890087364c01a5eff38b6761e683:
+    id: c2ff890087364c01a5eff38b6761e683
     span:
       start: 88631
       end: 88634
@@ -1217,8 +1217,8 @@ annotations:
     metadata: {}
     src_diff: བད་
     diff_payload: པ་
-  85d3296b130c4b57a4f43d8518f84db8:
-    id: 85d3296b130c4b57a4f43d8518f84db8
+  05db1e5a89eb4b95a04fd79d5409b113:
+    id: 05db1e5a89eb4b95a04fd79d5409b113
     span:
       start: 91036
       end: 91040
@@ -1226,8 +1226,8 @@ annotations:
     metadata: {}
     src_diff: མཆན་
     diff_payload: མཚན་
-  292672f7c1c242e7908508c3bed5cefe:
-    id: 292672f7c1c242e7908508c3bed5cefe
+  4dcb1b1865f5458b901e2e88340ec2ba:
+    id: 4dcb1b1865f5458b901e2e88340ec2ba
     span:
       start: 91335
       end: 91340
@@ -1235,8 +1235,8 @@ annotations:
     metadata: {}
     src_diff: སྙེད་
     diff_payload: སྲིད་
-  2d42470d457a49d59a4e727e600393b4:
-    id: 2d42470d457a49d59a4e727e600393b4
+  a4a65a02ad67471da1323a14ca0e8fd1:
+    id: a4a65a02ad67471da1323a14ca0e8fd1
     span:
       start: 93489
       end: 93492
@@ -1244,8 +1244,8 @@ annotations:
     metadata: {}
     src_diff: པོ་
     diff_payload: བ་
-  f8077469948c427da5fbf1fe7084986a:
-    id: f8077469948c427da5fbf1fe7084986a
+  6e1fc08167c74545b8e602eb1b7aa68c:
+    id: 6e1fc08167c74545b8e602eb1b7aa68c
     span:
       start: 99482
       end: 99487
@@ -1253,8 +1253,8 @@ annotations:
     metadata: {}
     src_diff: འདྲས་
     diff_payload: འབྲས་
-  5636eff64db14be4b7be79326e0115c4:
-    id: 5636eff64db14be4b7be79326e0115c4
+  a70d3227adf848a187e9957fe5f5796e:
+    id: a70d3227adf848a187e9957fe5f5796e
     span:
       start: 99671
       end: 99676
@@ -1262,8 +1262,8 @@ annotations:
     metadata: {}
     src_diff: ཚེགས་
     diff_payload: ཚིགས་
-  b1b013d45c1148b89114ff89ca0ce7df:
-    id: b1b013d45c1148b89114ff89ca0ce7df
+  0aae7ddc05fe403b99667bd9118da665:
+    id: 0aae7ddc05fe403b99667bd9118da665
     span:
       start: 101449
       end: 101457
@@ -1271,8 +1271,8 @@ annotations:
     metadata: {}
     src_diff: བྱང་ཆུབ་
     diff_payload: བླ་ན་
-  37ef057442be42d29761126eb88840ff:
-    id: 37ef057442be42d29761126eb88840ff
+  00b30201d342418d88fc7053cf498aee:
+    id: 00b30201d342418d88fc7053cf498aee
     span:
       start: 101457
       end: 101462
@@ -1280,8 +1280,8 @@ annotations:
     metadata: {}
     src_diff: སེམས་
     diff_payload: མེད་
-  12e934d677a743c7ad7025ce894fcbbe:
-    id: 12e934d677a743c7ad7025ce894fcbbe
+  77533c8154074cd1a46f8243993b4dd8:
+    id: 77533c8154074cd1a46f8243993b4dd8
     span:
       start: 101749
       end: 101758
@@ -1289,8 +1289,8 @@ annotations:
     metadata: {}
     src_diff: ཙནྡན་ནགས་
     diff_payload: དགའ་ཚལ་
-  b612384ecb004fdcbb3b8c02abb88ec9:
-    id: b612384ecb004fdcbb3b8c02abb88ec9
+  b02c0d3515db4bfd8f7a66ae9e976034:
+    id: b02c0d3515db4bfd8f7a66ae9e976034
     span:
       start: 101758
       end: 101763
@@ -1298,8 +1298,8 @@ annotations:
     metadata: {}
     src_diff: སྟུག་
     diff_payload: སྡུག་
-  e5386ad1953d438282604d9d232ab120:
-    id: e5386ad1953d438282604d9d232ab120
+  34a4f9a583084d0ca4617cde050b44cf:
+    id: 34a4f9a583084d0ca4617cde050b44cf
     span:
       start: 101773
       end: 101776
@@ -1307,8 +1307,8 @@ annotations:
     metadata: {}
     src_diff: རི་
     diff_payload: ལི་
-  109130d8127240698ec4df9de6dfb753:
-    id: 109130d8127240698ec4df9de6dfb753
+  8309f3c7e4a04f2fa9ecbdbddcdb484b:
+    id: 8309f3c7e4a04f2fa9ecbdbddcdb484b
     span:
       start: 102005
       end: 102012
@@ -1316,8 +1316,8 @@ annotations:
     metadata: {}
     src_diff: བསྲེགས་
     diff_payload: བསྲིགས་
-  e340caf73d1e46e9a3dbfe78819a9d4c:
-    id: e340caf73d1e46e9a3dbfe78819a9d4c
+  85a7230d8c4740f782ee5b1498c7bd58:
+    id: 85a7230d8c4740f782ee5b1498c7bd58
     span:
       start: 102326
       end: 102333
@@ -1325,8 +1325,8 @@ annotations:
     metadata: {}
     src_diff: ཀུནྡའི་
     diff_payload: ཀུན་དའི་
-  cc676d9c496d45a7b7fce24145e35a47:
-    id: cc676d9c496d45a7b7fce24145e35a47
+  6bfec9dd61a74d94bebbe7aac97ce306:
+    id: 6bfec9dd61a74d94bebbe7aac97ce306
     span:
       start: 102460
       end: 102463
@@ -1334,8 +1334,8 @@ annotations:
     metadata: {}
     src_diff: ཁྲ་
     diff_payload: ཁྭ་
-  e90b4bdf04954effb75b53a77e76cc27:
-    id: e90b4bdf04954effb75b53a77e76cc27
+  c5a6d0ca86dd48219d577ccdba6fd67a:
+    id: c5a6d0ca86dd48219d577ccdba6fd67a
     span:
       start: 102580
       end: 102582
@@ -1343,8 +1343,8 @@ annotations:
     metadata: {}
     src_diff: ན་
     diff_payload: ས་
-  c10b6f6d3be444e3a402e0fa4a3038a6:
-    id: c10b6f6d3be444e3a402e0fa4a3038a6
+  c185ddd6f7a14ccd8bdaf3786f14c04b:
+    id: c185ddd6f7a14ccd8bdaf3786f14c04b
     span:
       start: 102692
       end: 102695
@@ -1352,8 +1352,8 @@ annotations:
     metadata: {}
     src_diff: བར་
     diff_payload: པར་
-  b70352d880234068a2fcc3d89b9400c4:
-    id: b70352d880234068a2fcc3d89b9400c4
+  4d154b5f6b534ef99190d6a82e99566e:
+    id: 4d154b5f6b534ef99190d6a82e99566e
     span:
       start: 102953
       end: 102957
@@ -1361,8 +1361,8 @@ annotations:
     metadata: {}
     src_diff: ཀུན་
     diff_payload: ཐམས་ཅད་དང་
-  ff59067021514e108ed54ec20452050a:
-    id: ff59067021514e108ed54ec20452050a
+  086f0c23bff044e691fbad50e21aa7f6:
+    id: 086f0c23bff044e691fbad50e21aa7f6
     span:
       start: 103021
       end: 103024
@@ -1370,8 +1370,8 @@ annotations:
     metadata: {}
     src_diff: དང་
     diff_payload: དཔའ་
-  06408aa9cc924fea88add77daa5803b6:
-    id: 06408aa9cc924fea88add77daa5803b6
+  357258796d1c4f32843471ba3838bf0e:
+    id: 357258796d1c4f32843471ba3838bf0e
     span:
       start: 103671
       end: 103675
@@ -1379,8 +1379,8 @@ annotations:
     metadata: {}
     src_diff: གི །
     diff_payload: གི༌།
-  917ff9df0f724fb6aeeda403a412c86b:
-    id: 917ff9df0f724fb6aeeda403a412c86b
+  18051c09d93f4dbcbac5919f722ca9cb:
+    id: 18051c09d93f4dbcbac5919f722ca9cb
     span:
       start: 104342
       end: 104348
@@ -1388,8 +1388,8 @@ annotations:
     metadata: {}
     src_diff: འདྲོན་
     diff_payload: འགྲོན་
-  b15daf631fb44d1c9180131309617a60:
-    id: b15daf631fb44d1c9180131309617a60
+  cef4d76703384444b54253e789397314:
+    id: cef4d76703384444b54253e789397314
     span:
       start: 104595
       end: 104600
@@ -1397,8 +1397,8 @@ annotations:
     metadata: {}
     src_diff: འདྲོན
     diff_payload: འགྲོན
-  489efcf70b144fcebff70e896d826fb2:
-    id: 489efcf70b144fcebff70e896d826fb2
+  aa61760a99f4489da9aadddf42fd86b0:
+    id: aa61760a99f4489da9aadddf42fd86b0
     span:
       start: 104751
       end: 104755
@@ -1406,8 +1406,8 @@ annotations:
     metadata: {}
     src_diff: ཤིང་
     diff_payload: ཤིས་
-  6d9b9f5186b9457fb3be451b30067c0c:
-    id: 6d9b9f5186b9457fb3be451b30067c0c
+  afd0adc065fe4edb802af911f811e7f5:
+    id: afd0adc065fe4edb802af911f811e7f5
     span:
       start: 104800
       end: 104803
@@ -1415,8 +1415,8 @@ annotations:
     metadata: {}
     src_diff: ངལ་
     diff_payload: དལ་
-  a1cebd1d422a40e987497091affe3d25:
-    id: a1cebd1d422a40e987497091affe3d25
+  964a99867cce4162a9bfbc2e0236ea27:
+    id: 964a99867cce4162a9bfbc2e0236ea27
     span:
       start: 105781
       end: 105789
@@ -1424,8 +1424,8 @@ annotations:
     metadata: {}
     src_diff: ཌཱུརྱའི།
     diff_payload: ཌཱུརྻའི།
-  f57c3499185841ccb186f6444cfc1323:
-    id: f57c3499185841ccb186f6444cfc1323
+  c31a5dce95bf4cadb9d1eb016c1c8c93:
+    id: c31a5dce95bf4cadb9d1eb016c1c8c93
     span:
       start: 105814
       end: 105821
@@ -1433,8 +1433,8 @@ annotations:
     metadata: {}
     src_diff: གྱུར། །
     diff_payload: གྱུར་ཅིག །
-  3c605e77f95b48959697538ff4764c4c:
-    id: 3c605e77f95b48959697538ff4764c4c
+  ecf75d6a6a5e48bb81b387bccf8de721:
+    id: ecf75d6a6a5e48bb81b387bccf8de721
     span:
       start: 106854
       end: 106857
@@ -1442,8 +1442,8 @@ annotations:
     metadata: {}
     src_diff: བས་
     diff_payload: པས་
-  6c9c78fa0ce74e9784d42fd3a35bc3b3:
-    id: 6c9c78fa0ce74e9784d42fd3a35bc3b3
+  c0e50a41bf214b399d6ba2ea6fe11ddd:
+    id: c0e50a41bf214b399d6ba2ea6fe11ddd
     span:
       start: 107541
       end: 107544
