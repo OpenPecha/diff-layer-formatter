@@ -2,7 +2,7 @@ from email import charset
 import json
 from pathlib import Path
 
-from openpecha.utils import dump_yaml
+from openpecha.utils import dump_yaml,load_yaml
 
 from diff_layer_parser import get_diff_layer
 from diff_selector import get_combined_diff_layer, get_alt_diff_paths, reformat_combined_diff_layer
@@ -35,15 +35,24 @@ def save_combined_diff_layer(text_id):
     dump_yaml(combined_diffs, Path(f'./data/{text_id}/combined_diff.yml'))
     return combined_diffs
 
+def is_sub_set_of_prev(diff, prev_diff):
+    if diff != prev_diff and diff['span']['start'] < prev_diff['span']['end']:
+        return True
+    return False
+
 def serialize_diffs(combined_diff_layer, open_edition):
     new_open_edition = ""
     char_walker = 0
+    prev_diff = list(combined_diff_layer.values())[0]
     for _, diff in combined_diff_layer.items():
+        if is_sub_set_of_prev(diff, prev_diff):
+            continue
         diff_start = diff['span']['start']
         diff_end = diff['span']['end']
         elected_diff = diff['elected']
         new_open_edition += f"{open_edition[char_walker:diff_start]}{elected_diff}"
         char_walker = diff_end
+        prev_diff = diff
     new_open_edition += open_edition[char_walker:]
     return new_open_edition
 
